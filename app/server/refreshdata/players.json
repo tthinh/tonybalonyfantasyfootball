@@ -1,0 +1,5145 @@
+{
+  "body": {
+    "rankings": {
+      "source": "cbs",
+      "positions": [
+        {
+          "abbr": "QB",
+          "players": [
+            {
+              "bye_week": "10",
+              "firstname": "Andrew",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1631912.png",
+              "position": "QB",
+              "icons": {
+                "video": 1,
+                "headline": "Colts QB Andrew Luck struggles in loss to Jets"
+              },
+              "lastname": "Luck",
+              "age": 26,
+              "elias_id": "LUC524055",
+              "pro_status": "A",
+              "jersey": "12",
+              "fullname": "Andrew Luck",
+              "id": "1631912",
+              "rank": 1,
+              "pro_team": "IND"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Aaron",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/419780.png",
+              "position": "QB",
+              "icons": {
+                "headline": "Packers QB Aaron Rogers fires two TD passes in Week 2 win"
+              },
+              "lastname": "Rodgers",
+              "age": 31,
+              "elias_id": "ROD339293",
+              "pro_status": "A",
+              "jersey": "12",
+              "fullname": "Aaron Rodgers",
+              "id": "419780",
+              "rank": 2,
+              "pro_team": "GB"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Peyton",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/12531.png",
+              "position": "QB",
+              "icons": {
+                "injury": "Not injury related: Probable for Week 3 at Detroit",
+                "hot": 1,
+                "headline": "Broncos QB Peyton Manning fine for Thursday clash"
+              },
+              "lastname": "Manning",
+              "age": 39,
+              "elias_id": "MAN515097",
+              "pro_status": "A",
+              "jersey": "18",
+              "fullname": "Peyton Manning",
+              "id": "12531",
+              "rank": 3,
+              "pro_team": "DEN"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Drew",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/235197.png",
+              "position": "QB",
+              "icons": {
+                "video": 1,
+                "injury": "Right shoulder: Out for Week 3 at Carolina",
+                "headline": "Saints QB Drew Brees throws for 255 yards, TD in loss Sunday"
+              },
+              "lastname": "Brees",
+              "age": 36,
+              "elias_id": "BRE229498",
+              "pro_status": "A",
+              "jersey": "9",
+              "fullname": "Drew Brees",
+              "id": "235197",
+              "rank": 4,
+              "pro_team": "NO"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Matt",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/420095.png",
+              "position": "QB",
+              "icons": {
+                "headline": "Falcons QB Matt Ryan throws for 363 yards in win over Giants"
+              },
+              "lastname": "Ryan",
+              "age": 30,
+              "elias_id": "RYA238179",
+              "pro_status": "A",
+              "jersey": "2",
+              "fullname": "Matt Ryan",
+              "id": "420095",
+              "rank": 5,
+              "pro_team": "ATL"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Tony",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/396886.png",
+              "position": "QB",
+              "icons": {
+                "video": 1,
+                "injury": "Shoulder: IR. Designated for return",
+                "headline": "Cowboys quarterback Tony Romo will play in Week 2"
+              },
+              "lastname": "Romo",
+              "age": 35,
+              "elias_id": "ROM787981",
+              "pro_status": "IR",
+              "jersey": "9",
+              "fullname": "Tony Romo",
+              "id": "396886",
+              "rank": 6,
+              "pro_team": "DAL"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Ben",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/493043.png",
+              "position": "QB",
+              "icons": {
+                "headline": "Steelers' Ben Roethlisberger tosses three touchdowns in win"
+              },
+              "lastname": "Roethlisberger",
+              "age": 33,
+              "elias_id": "ROE750381",
+              "pro_status": "A",
+              "jersey": "7",
+              "fullname": "Ben Roethlisberger",
+              "id": "493043",
+              "rank": 7,
+              "pro_team": "PIT"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Russell",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1272242.png",
+              "position": "QB",
+              "icons": {
+                "hot": 1,
+                "headline": "Russell Wilson has strong game, but Seahawks fall to Packers in Week 2"
+              },
+              "lastname": "Wilson",
+              "age": 26,
+              "elias_id": "WIL777781",
+              "pro_status": "A",
+              "jersey": "3",
+              "fullname": "Russell Wilson",
+              "id": "1272242",
+              "rank": 8,
+              "pro_team": "SEA"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "Tom",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/187741.png",
+              "position": "QB",
+              "icons": {
+                "video": 1,
+                "hot": 1,
+                "headline": "Patriots QB Tom Brady deflates spirit of Bills with big game"
+              },
+              "lastname": "Brady",
+              "age": 38,
+              "elias_id": "BRA371156",
+              "pro_status": "A",
+              "jersey": "12",
+              "fullname": "Tom Brady",
+              "id": "187741",
+              "rank": 9,
+              "pro_team": "NE"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Matthew",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1114942.png",
+              "position": "QB",
+              "icons": {
+                "injury": "Ribs: Probable for Week 3 vs. Denver",
+                "headline": "Lions QB Matthew Stafford (arm) practiced in full Wednesday"
+              },
+              "lastname": "Stafford",
+              "age": 27,
+              "elias_id": "STA134157",
+              "pro_status": "A",
+              "jersey": "9",
+              "fullname": "Matthew Stafford",
+              "id": "1114942",
+              "rank": 10,
+              "pro_team": "DET"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Ryan",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1273654.png",
+              "position": "QB",
+              "icons": {
+                "injury": "Ankle: Probable for Week 3 vs. Buffalo",
+                "headline": "Dolphins QB Ryan Tannehil goes for 359 yards, two TDs in loss"
+              },
+              "lastname": "Tannehill",
+              "age": 27,
+              "elias_id": "TAN298716",
+              "pro_status": "A",
+              "jersey": "17",
+              "fullname": "Ryan Tannehill",
+              "id": "1273654",
+              "rank": 11,
+              "pro_team": "MIA"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Sam",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1123599.png",
+              "position": "QB",
+              "icons": {
+                "cold": 1,
+                "headline": "Eagles' Sam Bradford left off injury report, expected to play Sunday"
+              },
+              "lastname": "Bradford",
+              "age": 27,
+              "elias_id": "BRA101548",
+              "pro_status": "A",
+              "jersey": "7",
+              "fullname": "Sam Bradford",
+              "id": "1123599",
+              "rank": 12,
+              "pro_team": "PHI"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Eli",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/493004.png",
+              "position": "QB",
+              "icons": {
+                "headline": "Giants LT Ereck Flowers is trying to get ready for Week 2"
+              },
+              "lastname": "Manning",
+              "age": 34,
+              "elias_id": "MAN473170",
+              "pro_status": "A",
+              "jersey": "10",
+              "fullname": "Eli Manning",
+              "id": "493004",
+              "rank": 13,
+              "pro_team": "NYG"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Carson",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/396173.png",
+              "position": "QB",
+              "icons": {
+                "hot": 1,
+                "headline": "Cardinals QB Carson Palmer fires four touchdown passes in win"
+              },
+              "lastname": "Palmer",
+              "age": 35,
+              "elias_id": "PAL249055",
+              "pro_status": "A",
+              "jersey": "3",
+              "fullname": "Carson Palmer",
+              "id": "396173",
+              "rank": 14,
+              "pro_team": "ARI"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Teddy",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1825122.png",
+              "position": "QB",
+              "icons": {
+                "headline": "Teddy Bridgewater on struggles: I take it as a learning experience"
+              },
+              "lastname": "Bridgewater",
+              "age": 22,
+              "elias_id": "BRI129168",
+              "pro_status": "A",
+              "jersey": "5",
+              "fullname": "Teddy Bridgewater",
+              "id": "1825122",
+              "rank": 15,
+              "pro_team": "MIN"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Cam",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1273186.png",
+              "position": "QB",
+              "icons": {
+                "hot": 1,
+                "headline": "Panthers QB Cam Newton leads the charge in Week 2 win"
+              },
+              "lastname": "Newton",
+              "age": 26,
+              "elias_id": "NEW693984",
+              "pro_status": "A",
+              "jersey": "1",
+              "fullname": "Cam Newton",
+              "id": "1273186",
+              "rank": 16,
+              "pro_team": "CAR"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Philip",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/493041.png",
+              "position": "QB",
+              "icons": {
+                "headline": "Chargers QB Philip Rivers makes history, but struggles Sunday"
+              },
+              "lastname": "Rivers",
+              "age": 33,
+              "elias_id": "RIV651634",
+              "pro_status": "A",
+              "jersey": "17",
+              "fullname": "Philip Rivers",
+              "id": "493041",
+              "rank": 17,
+              "pro_team": "SD"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Jay",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/409102.png",
+              "position": "QB",
+              "icons": {
+                "video": 1,
+                "injury": "Hamstring: Out for Week 3 at Seattle",
+                "headline": "Bears QB Jay Cutler (hamstring) out of Sunday's game"
+              },
+              "lastname": "Cutler",
+              "age": 32,
+              "elias_id": "CUT288111",
+              "pro_status": "A",
+              "jersey": "6",
+              "fullname": "Jay Cutler",
+              "id": "409102",
+              "rank": 18,
+              "pro_team": "CHI"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "Marcus",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1880862.png",
+              "position": "QB",
+              "icons": {
+                "video": 1,
+                "headline": "Numbers don't tell story for Titans QB Marcus Mariota in Week 2"
+              },
+              "lastname": "Mariota",
+              "age": 21,
+              "elias_id": "MAR186347",
+              "pro_status": "A",
+              "jersey": "8",
+              "fullname": "Marcus Mariota",
+              "id": "1880862",
+              "rank": 19,
+              "pro_team": "TEN"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Andy",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1125961.png",
+              "position": "QB",
+              "icons": {
+                "hot": 1,
+                "headline": "Bengals QB Andy Dalton tosses three TD passes in Week 2 win"
+              },
+              "lastname": "Dalton",
+              "age": 27,
+              "elias_id": "DAL659900",
+              "pro_status": "A",
+              "jersey": "14",
+              "fullname": "Andy Dalton",
+              "id": "1125961",
+              "rank": 20,
+              "pro_team": "CIN"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Jameis",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1998197.png",
+              "position": "QB",
+              "icons": {
+                "headline": "Buccaneers QB Jameis Winston seeks closure after debut dud"
+              },
+              "lastname": "Winston",
+              "age": 21,
+              "elias_id": "WIN623708",
+              "pro_status": "A",
+              "jersey": "3",
+              "fullname": "Jameis Winston",
+              "id": "1998197",
+              "rank": 21,
+              "pro_team": "TB"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Colin",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1130583.png",
+              "position": "QB",
+              "icons": {
+                "video": 1,
+                "headline": "49ers QB Colin Kaepernick puts up solid effort in Week 2 loss"
+              },
+              "lastname": "Kaepernick",
+              "age": 27,
+              "elias_id": "KAE371576",
+              "pro_status": "A",
+              "jersey": "7",
+              "fullname": "Colin Kaepernick",
+              "id": "1130583",
+              "rank": 22,
+              "pro_team": "SF"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Derek",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1664819.png",
+              "position": "QB",
+              "icons": {
+                "video": 1,
+                "headline": "Raiders QB Derek Carr practices fully, could return for Week 2"
+              },
+              "lastname": "Carr",
+              "age": 24,
+              "elias_id": "CAR358797",
+              "pro_status": "A",
+              "jersey": "4",
+              "fullname": "Derek Carr",
+              "id": "1664819",
+              "rank": 23,
+              "pro_team": "OAK"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Joe",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1250697.png",
+              "position": "QB",
+              "icons": {
+                "headline": "Ravens WR Joe Flacco throws for 383 yards, two TDs in loss"
+              },
+              "lastname": "Flacco",
+              "age": 30,
+              "elias_id": "FLA009602",
+              "pro_status": "A",
+              "jersey": "5",
+              "fullname": "Joe Flacco",
+              "id": "1250697",
+              "rank": 24,
+              "pro_team": "BAL"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Blake",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1749727.png",
+              "position": "QB",
+              "icons": {
+                "headline": "Jaguars QB Blake Bortles tosses two TDs in win over Dolphins"
+              },
+              "lastname": "Bortles",
+              "age": 23,
+              "elias_id": "BOR650964",
+              "pro_status": "A",
+              "jersey": "5",
+              "fullname": "Blake Bortles",
+              "id": "1749727",
+              "rank": 25,
+              "pro_team": "JAC"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Alex",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/552642.png",
+              "position": "QB",
+              "icons": {
+                "hot": 1,
+                "headline": "Chiefs QB Alex Smith throws two interceptions in loss"
+              },
+              "lastname": "Smith",
+              "age": 31,
+              "elias_id": "SMI031126",
+              "pro_status": "A",
+              "jersey": "11",
+              "fullname": "Alex Smith",
+              "id": "552642",
+              "rank": 26,
+              "pro_team": "KC"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Tyrod",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1243338.png",
+              "position": "QB",
+              "icons": {
+                "video": 1,
+                "hot": 1,
+                "headline": "Bills QB Tyrod Taylor throws three TDs, three INTs in loss"
+              },
+              "lastname": "Taylor",
+              "age": 26,
+              "elias_id": "TAY764868",
+              "pro_status": "A",
+              "jersey": "5",
+              "fullname": "Tyrod Taylor",
+              "id": "1243338",
+              "rank": 27,
+              "pro_team": "BUF"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Ryan",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/547043.png",
+              "position": "QB",
+              "icons": {
+                "hot": 1,
+                "headline": "Jets QB Ryan Fitzpatrick throws two TDs in win Monday"
+              },
+              "lastname": "Fitzpatrick",
+              "age": 32,
+              "elias_id": "FIT792915",
+              "pro_status": "A",
+              "jersey": "14",
+              "fullname": "Ryan Fitzpatrick",
+              "id": "547043",
+              "rank": 28,
+              "pro_team": "NYJ"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Nick",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1631750.png",
+              "position": "QB",
+              "icons": {
+                "video": 1,
+                "hot": 1,
+                "headline": "Rams QB Nick Foles connects on touchdown in loss"
+              },
+              "lastname": "Foles",
+              "age": 26,
+              "elias_id": "FOL058566",
+              "pro_status": "A",
+              "jersey": "5",
+              "fullname": "Nick Foles",
+              "id": "1631750",
+              "rank": 29,
+              "pro_team": "STL"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Josh",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/302085.png",
+              "position": "QB",
+              "icons": {
+                "injury": "Concussion: Probable for Week 3 vs. Oakland",
+                "hot": 1,
+                "headline": "Browns QB Josh McCown still down; Johnny Manziel could start"
+              },
+              "lastname": "McCown",
+              "age": 36,
+              "elias_id": "MCC600777",
+              "pro_status": "A",
+              "jersey": "13",
+              "fullname": "Josh McCown",
+              "id": "302085",
+              "rank": 30,
+              "pro_team": "CLE"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Brian",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/517243.png",
+              "position": "QB",
+              "icons": {
+                "headline": "Report: Texans QB Ryan Mallett told he will start Week 2"
+              },
+              "lastname": "Hoyer",
+              "age": 29,
+              "elias_id": "HOY440791",
+              "pro_status": "A",
+              "jersey": "7",
+              "fullname": "Brian Hoyer",
+              "id": "517243",
+              "rank": 31,
+              "pro_team": "HOU"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Kirk",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1272574.png",
+              "position": "QB",
+              "icons": {
+                "headline": "Redskins QB Kirk Cousins shines in win over Rams"
+              },
+              "lastname": "Cousins",
+              "age": 27,
+              "elias_id": "COU709400",
+              "pro_status": "A",
+              "jersey": "8",
+              "fullname": "Kirk Cousins",
+              "id": "1272574",
+              "rank": 32,
+              "pro_team": "WAS"
+            }
+          ]
+        },
+        {
+          "abbr": "RB",
+          "players": [
+            {
+              "bye_week": "11",
+              "firstname": "Le'Veon",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1751828.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "hot": 1,
+                "headline": "Steelers RB Le'Veon Bell set to return in Week 3"
+              },
+              "lastname": "Bell",
+              "age": 23,
+              "elias_id": "BEL474300",
+              "pro_status": "A",
+              "jersey": "26",
+              "fullname": "Le'Veon Bell",
+              "id": "1751828",
+              "rank": 1,
+              "pro_team": "PIT"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Eddie",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1691422.png",
+              "position": "RB",
+              "icons": {
+                "injury": "Ankle: Limited practice. Questionable for Week 3 vs. Kansas City",
+                "headline": "Packers' Eddie Lacy leaves with ankle injury; return questionable"
+              },
+              "lastname": "Lacy",
+              "age": 25,
+              "elias_id": "LAC702361",
+              "pro_status": "A",
+              "jersey": "27",
+              "fullname": "Eddie Lacy",
+              "id": "1691422",
+              "rank": 2,
+              "pro_team": "GB"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Adrian",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/517568.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Vikings RB Adrian Peterson shines in win over Lions"
+              },
+              "lastname": "Peterson",
+              "age": 30,
+              "elias_id": "PET260705",
+              "pro_status": "A",
+              "jersey": "28",
+              "fullname": "Adrian Peterson",
+              "id": "517568",
+              "rank": 3,
+              "pro_team": "MIN"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Marshawn",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/504639.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "injury": "Calf: Questionable for Week 3 vs. Chicago",
+                "headline": "Seahawks RB Marshawn Lynch kept quiet in Week 2 loss"
+              },
+              "lastname": "Lynch",
+              "age": 29,
+              "elias_id": "LYN442976",
+              "pro_status": "A",
+              "jersey": "24",
+              "fullname": "Marshawn Lynch",
+              "id": "504639",
+              "rank": 4,
+              "pro_team": "SEA"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Jamaal",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/564952.png",
+              "position": "RB",
+              "icons": {
+                "hot": 1,
+                "headline": "Chiefs' Jamaal Charles runs for 125 yards, coughs up big fumble"
+              },
+              "lastname": "Charles",
+              "age": 28,
+              "elias_id": "CHA561428",
+              "pro_status": "A",
+              "jersey": "25",
+              "fullname": "Jamaal Charles",
+              "id": "564952",
+              "rank": 5,
+              "pro_team": "KC"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "C.J.",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1880820.png",
+              "position": "RB",
+              "icons": {
+                "injury": "Ankle, toe: Probable for Week 3 at Detroit",
+                "hot": 1,
+                "headline": "Broncos RB C.J. Anderson upgraded to limited practice reps"
+              },
+              "lastname": "Anderson",
+              "age": 24,
+              "elias_id": "AND163330",
+              "pro_status": "A",
+              "jersey": "22",
+              "fullname": "C.J. Anderson",
+              "id": "1880820",
+              "rank": 6,
+              "pro_team": "DEN"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Jeremy",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1984260.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "headline": "Self-critical Bengals RB Jeremy Hill seeks performance upgrade"
+              },
+              "lastname": "Hill",
+              "age": 22,
+              "elias_id": "HIL407410",
+              "pro_status": "A",
+              "jersey": "32",
+              "fullname": "Jeremy Hill",
+              "id": "1984260",
+              "rank": 7,
+              "pro_team": "CIN"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Matt",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/559687.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "injury": "Knee: Probable for Week 3 at Seattle",
+                "headline": "Bears RB Matt Forte sees drop in production in Week 2"
+              },
+              "lastname": "Forte",
+              "age": 29,
+              "elias_id": "FOR645404",
+              "pro_status": "A",
+              "jersey": "22",
+              "fullname": "Matt Forte",
+              "id": "559687",
+              "rank": 8,
+              "pro_team": "CHI"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "DeMarco",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1123691.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "injury": "Hamstring: Questionable for Week 3 at N.Y. Jets",
+                "headline": "Eagles RB DeMarco Murray struggles in loss to Cowboys"
+              },
+              "lastname": "Murray",
+              "age": 27,
+              "elias_id": "MUR580353",
+              "pro_status": "A",
+              "jersey": "29",
+              "fullname": "DeMarco Murray",
+              "id": "1123691",
+              "rank": 9,
+              "pro_team": "PHI"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "LeSean",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1243187.png",
+              "position": "RB",
+              "icons": {
+                "injury": "Hamstring: Probable for Week 3 at Miami",
+                "headline": "Bills' Ryan hopeful LeSean McCoy will play Week 2 after setback in practice"
+              },
+              "lastname": "McCoy",
+              "age": 27,
+              "elias_id": "MCC620232",
+              "pro_status": "A",
+              "jersey": "25",
+              "fullname": "LeSean McCoy",
+              "id": "1243187",
+              "rank": 10,
+              "pro_team": "BUF"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Frank",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/411568.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "headline": "Colts RB Frank Gore rushes for 57 yards in loss Monday"
+              },
+              "lastname": "Gore",
+              "age": 32,
+              "elias_id": "GOR411171",
+              "pro_status": "A",
+              "jersey": "23",
+              "fullname": "Frank Gore",
+              "id": "411568",
+              "rank": 11,
+              "pro_team": "IND"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Lamar",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1691169.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "injury": "Ankle: Questionable for Week 3 vs. Buffalo",
+                "headline": "Dolphins RB Lamar Miller leaves Week 2 with ankle injury"
+              },
+              "lastname": "Miller",
+              "age": 24,
+              "elias_id": "MIL373118",
+              "pro_status": "A",
+              "jersey": "26",
+              "fullname": "Lamar Miller",
+              "id": "1691169",
+              "rank": 12,
+              "pro_team": "MIA"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Justin",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/520386.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "headline": "Ravens RB Justin Forsett gets limited run at practice Wednesday"
+              },
+              "lastname": "Forsett",
+              "age": 29,
+              "elias_id": "FOR530271",
+              "pro_status": "A",
+              "jersey": "29",
+              "fullname": "Justin Forsett",
+              "id": "520386",
+              "rank": 13,
+              "pro_team": "BAL"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Mark",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1623793.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Saints RB Mark Ingram gets rushing touchdown Sunday"
+              },
+              "lastname": "Ingram",
+              "age": 25,
+              "elias_id": "ING656964",
+              "pro_status": "A",
+              "jersey": "22",
+              "fullname": "Mark Ingram",
+              "id": "1623793",
+              "rank": 14,
+              "pro_team": "NO"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Latavius",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1637004.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Raiders RB Latavius Murray rushes for 65 yards, TD in win"
+              },
+              "lastname": "Murray",
+              "age": 25,
+              "elias_id": "MUR671046",
+              "pro_status": "A",
+              "jersey": "28",
+              "fullname": "Latavius Murray",
+              "id": "1637004",
+              "rank": 15,
+              "pro_team": "OAK"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Carlos",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1751883.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "injury": "Quadriceps: Probable for Week 3 at Arizona",
+                "headline": "49ers RB Carlos Hyde fined for taunting in Week 1"
+              },
+              "lastname": "Hyde",
+              "age": 24,
+              "elias_id": "HYD402541",
+              "pro_status": "A",
+              "jersey": "28",
+              "fullname": "Carlos Hyde",
+              "id": "1751883",
+              "rank": 16,
+              "pro_team": "SF"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Doug",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1274369.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Bucs RB Doug Martin provides mixed results in win over Saints"
+              },
+              "lastname": "Martin",
+              "age": 26,
+              "elias_id": "MAR578568",
+              "pro_status": "A",
+              "jersey": "22",
+              "fullname": "Doug Martin",
+              "id": "1274369",
+              "rank": 17,
+              "pro_team": "TB"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Ameer",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1824308.png",
+              "position": "RB",
+              "icons": {
+                "video": 1
+              },
+              "lastname": "Abdullah",
+              "age": 22,
+              "elias_id": "ABD647726",
+              "pro_status": "A",
+              "jersey": "21",
+              "fullname": "Ameer Abdullah",
+              "id": "1824308",
+              "rank": 18,
+              "pro_team": "DET"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Andre",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1630220.png",
+              "position": "RB",
+              "icons": {
+                "injury": "Knee: Doubtful for Week 3 vs. San Francisco",
+                "headline": "Cardinals RB Ellington practices, increases Week 2 availability"
+              },
+              "lastname": "Ellington",
+              "age": 26,
+              "elias_id": "ELL164917",
+              "pro_status": "A",
+              "jersey": "38",
+              "fullname": "Andre Ellington",
+              "id": "1630220",
+              "rank": 19,
+              "pro_team": "ARI"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Arian",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/518611.png",
+              "position": "RB",
+              "icons": {
+                "injury": "Groin: Out for Week 3 vs. Tampa Bay",
+                "headline": "Texans RB Arian Foster returns to practice, still iffy to play Week 2"
+              },
+              "lastname": "Foster",
+              "age": 29,
+              "elias_id": "FOS107404",
+              "pro_status": "A",
+              "jersey": "23",
+              "fullname": "Arian Foster",
+              "id": "518611",
+              "rank": 20,
+              "pro_team": "HOU"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Joseph",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1737645.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Cowboys RB Joseph Randle nets 51 yards in 18 carries"
+              },
+              "lastname": "Randle",
+              "age": 23,
+              "elias_id": "RAN334748",
+              "pro_status": "A",
+              "jersey": "21",
+              "fullname": "Joseph Randle",
+              "id": "1737645",
+              "rank": 21,
+              "pro_team": "DAL"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Alfred",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1254119.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Redskins RB Alfred Morris rushes for 59 yards on 18 carries"
+              },
+              "lastname": "Morris",
+              "age": 26,
+              "elias_id": "MOR317547",
+              "pro_status": "A",
+              "jersey": "46",
+              "fullname": "Alfred Morris",
+              "id": "1254119",
+              "rank": 22,
+              "pro_team": "WAS"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Chris",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1272286.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "injury": "Quadriceps: Questionable for Week 3 vs. Philadelphia",
+                "headline": "Jets RB Chris Ivory (groin) gets limited run at Thursday's practice"
+              },
+              "lastname": "Ivory",
+              "age": 27,
+              "elias_id": "IVO253611",
+              "pro_status": "A",
+              "jersey": "33",
+              "fullname": "Chris Ivory",
+              "id": "1272286",
+              "rank": 23,
+              "pro_team": "NYJ"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "T.J.",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1984224.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Jaguars RB T.J. Yeldon gets 70 yards on 25 carries Sunday"
+              },
+              "lastname": "Yeldon",
+              "age": 21,
+              "elias_id": "YEL060186",
+              "pro_status": "A",
+              "jersey": "24",
+              "fullname": "T.J. Yeldon",
+              "id": "1984224",
+              "rank": 24,
+              "pro_team": "JAC"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Melvin",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1871347.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "headline": "Chargers RB Melvin Gordon puts up nice numbers in Week 3"
+              },
+              "lastname": "Gordon",
+              "age": 22,
+              "elias_id": "GOR275321",
+              "pro_status": "A",
+              "jersey": "28",
+              "fullname": "Melvin Gordon",
+              "id": "1871347",
+              "rank": 25,
+              "pro_team": "SD"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Jonathan",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/565654.png",
+              "position": "RB",
+              "icons": {
+                "injury": "Knee: Questionable for Week 3 vs. New Orleans",
+                "headline": "Panthers RB Jonathan Stewart gets a rest day Wednesday"
+              },
+              "lastname": "Stewart",
+              "age": 28,
+              "elias_id": "STE770966",
+              "pro_status": "A",
+              "jersey": "28",
+              "fullname": "Jonathan Stewart",
+              "id": "565654",
+              "rank": 26,
+              "pro_team": "CAR"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Todd",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2000877.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "injury": "Knee: Questionable for Week 3 vs. Pittsburgh",
+                "headline": "Rams RB Todd Gurley practices fully, could make debut Sunday"
+              },
+              "lastname": "Gurley",
+              "age": 21,
+              "elias_id": "GUR000000",
+              "pro_status": "A",
+              "jersey": "30",
+              "fullname": "Todd Gurley",
+              "id": "2000877",
+              "rank": 27,
+              "pro_team": "STL"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Joique",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1662348.png",
+              "position": "RB",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Bell",
+              "age": 29,
+              "elias_id": "BEL389385",
+              "pro_status": "A",
+              "jersey": "35",
+              "fullname": "Joique Bell",
+              "id": "1662348",
+              "rank": 28,
+              "pro_team": "DET"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Rashad",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1251717.png",
+              "position": "RB",
+              "lastname": "Jennings",
+              "age": 30,
+              "elias_id": "JEN587965",
+              "pro_status": "A",
+              "jersey": "23",
+              "fullname": "Rashad Jennings",
+              "id": "1251717",
+              "rank": 29,
+              "pro_team": "NYG"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Ryan",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1273854.png",
+              "position": "RB",
+              "icons": {
+                "cold": 1,
+                "video": 1
+              },
+              "lastname": "Mathews",
+              "age": 27,
+              "elias_id": "MAT190010",
+              "pro_status": "A",
+              "jersey": "24",
+              "fullname": "Ryan Mathews",
+              "id": "1273854",
+              "rank": 30,
+              "pro_team": "PHI"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Tevin",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2001839.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "injury": "Ribs: Out for Week 3 at Dallas",
+                "headline": "Falcons RB Tevin Coleman leaves game with rib injury"
+              },
+              "lastname": "Coleman",
+              "age": 22,
+              "elias_id": "COL359050",
+              "pro_status": "A",
+              "jersey": "26",
+              "fullname": "Tevin Coleman",
+              "id": "2001839",
+              "rank": 31,
+              "pro_team": "ATL"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Giovani",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1737248.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "headline": "Bengals RB Giovani Bernard rushes for 123 yards on 20 carries"
+              },
+              "lastname": "Bernard",
+              "age": 23,
+              "elias_id": "BER219765",
+              "pro_status": "A",
+              "jersey": "25",
+              "fullname": "Giovani Bernard",
+              "id": "1737248",
+              "rank": 32,
+              "pro_team": "CIN"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "C.J.",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1127382.png",
+              "position": "RB",
+              "icons": {
+                "cold": 1,
+                "headline": "Saints RB C.J. Spiller (knee) was limited in practice Wednesday"
+              },
+              "lastname": "Spiller",
+              "age": 28,
+              "elias_id": "SPI347627",
+              "pro_status": "A",
+              "jersey": "28",
+              "fullname": "C.J. Spiller",
+              "id": "1127382",
+              "rank": 33,
+              "pro_team": "NO"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "LeGarrette",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1620455.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "headline": "Patriots RB LeGarrette Blount mostly buried on bench Sunday"
+              },
+              "lastname": "Blount",
+              "age": 28,
+              "elias_id": "BLO626278",
+              "pro_status": "A",
+              "jersey": "29",
+              "fullname": "LeGarrette Blount",
+              "id": "1620455",
+              "rank": 34,
+              "pro_team": "NE"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Isaiah",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2130148.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "headline": "Browns RB Isaiah Crowell runs for 72 and score in victory"
+              },
+              "lastname": "Crowell",
+              "age": 22,
+              "elias_id": "CRO734794",
+              "pro_status": "A",
+              "jersey": "34",
+              "fullname": "Isaiah Crowell",
+              "id": "2130148",
+              "rank": 35,
+              "pro_team": "CLE"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Devonta",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1824135.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "hot": 1,
+                "headline": "Falcons RB Tevin Coleman scores TD before leaving game"
+              },
+              "lastname": "Freeman",
+              "age": 23,
+              "elias_id": "FRE174508",
+              "pro_status": "A",
+              "jersey": "24",
+              "fullname": "Devonta Freeman",
+              "id": "1824135",
+              "rank": 36,
+              "pro_team": "ATL"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "David",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1760290.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "hot": 1,
+                "headline": "RB David Johnson cemented as backup Sunday for Cardinals"
+              },
+              "lastname": "Johnson",
+              "age": 23,
+              "elias_id": "JOH174477",
+              "pro_status": "A",
+              "jersey": "31",
+              "fullname": "David Johnson",
+              "id": "1760290",
+              "rank": 37,
+              "pro_team": "ARI"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Danny",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1616817.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "headline": "Chargers RB Danny Woodhead shows versatility in Week 2"
+              },
+              "lastname": "Woodhead",
+              "age": 30,
+              "elias_id": "WOO302348",
+              "pro_status": "A",
+              "jersey": "39",
+              "fullname": "Danny Woodhead",
+              "id": "1616817",
+              "rank": 38,
+              "pro_team": "SD"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "Bishop",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1884454.png",
+              "position": "RB",
+              "icons": {
+                "cold": 1,
+                "headline": "Titans RB Bishop Sankey gets 42 rush yards on 12 carries"
+              },
+              "lastname": "Sankey",
+              "age": 23,
+              "elias_id": "SAN746476",
+              "pro_status": "A",
+              "jersey": "20",
+              "fullname": "Bishop Sankey",
+              "id": "1884454",
+              "rank": 39,
+              "pro_team": "TEN"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Tre",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1824805.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Rams RB Tre Mason practices fully, expected to return for Week 2"
+              },
+              "lastname": "Mason",
+              "age": 22,
+              "elias_id": "MAS269896",
+              "pro_status": "A",
+              "jersey": "27",
+              "fullname": "Tre Mason",
+              "id": "1824805",
+              "rank": 40,
+              "pro_team": "STL"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Darren",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/565805.png",
+              "position": "RB",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "McFadden",
+              "age": 28,
+              "elias_id": "MCF084974",
+              "pro_status": "A",
+              "jersey": "20",
+              "fullname": "Darren McFadden",
+              "id": "565805",
+              "rank": 41,
+              "pro_team": "DAL"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Knile",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1664705.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Chiefs RB Knile Davis rushes for touchdown in loss to Broncos"
+              },
+              "lastname": "Davis",
+              "age": 23,
+              "elias_id": "DAV514200",
+              "pro_status": "A",
+              "jersey": "34",
+              "fullname": "Knile Davis",
+              "id": "1664705",
+              "rank": 42,
+              "pro_team": "KC"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Ronnie",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1701008.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Broncos RB C.J. Anderson listed as questionable for Week 2"
+              },
+              "lastname": "Hillman",
+              "age": 24,
+              "elias_id": "HIL737842",
+              "pro_status": "A",
+              "jersey": "23",
+              "fullname": "Ronnie Hillman",
+              "id": "1701008",
+              "rank": 43,
+              "pro_team": "DEN"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Matt",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2000854.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "hot": 1,
+                "headline": "Redskins RB Matt Jones has career day in win Sunday"
+              },
+              "lastname": "Jones",
+              "age": 22,
+              "elias_id": "JON603219",
+              "pro_status": "A",
+              "jersey": "31",
+              "fullname": "Matt Jones",
+              "id": "2000854",
+              "rank": 44,
+              "pro_team": "WAS"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Andre",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1749684.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Giants' Andre Williams gains 29 yards, scores TD in Week 3 win"
+              },
+              "lastname": "Williams",
+              "age": 23,
+              "elias_id": "WIL142264",
+              "pro_status": "A",
+              "jersey": "44",
+              "fullname": "Andre Williams",
+              "id": "1749684",
+              "rank": 45,
+              "pro_team": "NYG"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Cameron",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2061215.png",
+              "position": "RB",
+              "lastname": "Artis-Payne",
+              "age": 25,
+              "elias_id": "ART387205",
+              "pro_status": "A",
+              "jersey": "34",
+              "fullname": "Cameron Artis-Payne",
+              "id": "2061215",
+              "rank": 46,
+              "pro_team": "CAR"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Fred",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1102782.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "hot": 1
+              },
+              "lastname": "Jackson",
+              "age": 34,
+              "elias_id": "JAC173789",
+              "pro_status": "A",
+              "jersey": "22",
+              "fullname": "Fred Jackson",
+              "id": "1102782",
+              "rank": 47,
+              "pro_team": "SEA"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Karlos",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1860763.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "headline": "Bills RB Karlos Williams could see more work with McCoy injury"
+              },
+              "lastname": "Williams",
+              "age": 22,
+              "elias_id": "WIL398250",
+              "pro_status": "A",
+              "jersey": "29",
+              "fullname": "Karlos Williams",
+              "id": "1860763",
+              "rank": 48,
+              "pro_team": "BUF"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Alfred",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2129554.png",
+              "position": "RB",
+              "icons": {
+                "cold": 1,
+                "headline": "Texans RB Alfred Blue has dismal game in Week 2 loss"
+              },
+              "lastname": "Blue",
+              "age": 24,
+              "elias_id": "BLU106654",
+              "pro_status": "A",
+              "jersey": "28",
+              "fullname": "Alfred Blue",
+              "id": "2129554",
+              "rank": 49,
+              "pro_team": "HOU"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Khiry",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2062165.png",
+              "position": "RB",
+              "lastname": "Robinson",
+              "age": 25,
+              "elias_id": "ROB601698",
+              "pro_status": "A",
+              "jersey": "29",
+              "fullname": "Khiry Robinson",
+              "id": "2062165",
+              "rank": 50,
+              "pro_team": "NO"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Reggie",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/407605.png",
+              "position": "RB",
+              "icons": {
+                "injury": "Calf: Doubtful for Week 3 at Arizona",
+                "headline": "49ers RB Reggie Bush remains questionable for Week 2"
+              },
+              "lastname": "Bush",
+              "age": 30,
+              "elias_id": "BUS294963",
+              "pro_status": "A",
+              "jersey": "23",
+              "fullname": "Reggie Bush",
+              "id": "407605",
+              "rank": 51,
+              "pro_team": "SF"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Duke",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1998316.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "headline": "Browns RB Duke Johnson only OK in Sunday win"
+              },
+              "lastname": "Johnson",
+              "age": 22,
+              "elias_id": "JOH000009",
+              "pro_status": "A",
+              "jersey": "29",
+              "fullname": "Duke Johnson",
+              "id": "1998316",
+              "rank": 52,
+              "pro_team": "CLE"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "Terrance",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1829652.png",
+              "position": "RB",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "West",
+              "age": 24,
+              "elias_id": "WES395447",
+              "pro_status": "A",
+              "jersey": "35",
+              "fullname": "Terrance West",
+              "id": "1829652",
+              "rank": 53,
+              "pro_team": "TEN"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Christine",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1700931.png",
+              "position": "RB",
+              "lastname": "Michael",
+              "age": 24,
+              "elias_id": "MIC066214",
+              "pro_status": "A",
+              "jersey": "30",
+              "fullname": "Christine Michael",
+              "id": "1700931",
+              "rank": 54,
+              "pro_team": "DAL"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "Dion",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1664753.png",
+              "position": "RB",
+              "icons": {
+                "hot": 1
+              },
+              "lastname": "Lewis",
+              "age": 24,
+              "elias_id": "LEW218646",
+              "pro_status": "A",
+              "jersey": "33",
+              "fullname": "Dion Lewis",
+              "id": "1664753",
+              "rank": 55,
+              "pro_team": "NE"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Charles",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1691483.png",
+              "position": "RB",
+              "icons": {
+                "cold": 1,
+                "headline": "Bucs RB Charles Sims nets 12 rushing yards in Week 1"
+              },
+              "lastname": "Sims",
+              "age": 25,
+              "elias_id": "SIM669037",
+              "pro_status": "A",
+              "jersey": "34",
+              "fullname": "Charles Sims",
+              "id": "1691483",
+              "rank": 56,
+              "pro_team": "TB"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Shane",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1273006.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Giants RB Shane Vereen nets 95 total yards in loss"
+              },
+              "lastname": "Vereen",
+              "age": 26,
+              "elias_id": "VER287449",
+              "pro_status": "A",
+              "jersey": "34",
+              "fullname": "Shane Vereen",
+              "id": "1273006",
+              "rank": 57,
+              "pro_team": "NYG"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "DeAngelo",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/423714.png",
+              "position": "RB",
+              "icons": {
+                "cold": 1,
+                "video": 1,
+                "headline": "Steelers RB DeAngelo Williams rushes for three scores in win"
+              },
+              "lastname": "Williams",
+              "age": 32,
+              "elias_id": "WIL221323",
+              "pro_status": "A",
+              "jersey": "34",
+              "fullname": "DeAngelo Williams",
+              "id": "423714",
+              "rank": 58,
+              "pro_team": "PIT"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Lorenzo",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2129490.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "injury": "Foot: Questionable for Week 3 vs. Cincinnati",
+                "headline": "Ravens RB Lorenzo Taliaferro (knee) able to practice Wednesday"
+              },
+              "lastname": "Taliaferro",
+              "age": 23,
+              "elias_id": "TAL413914",
+              "pro_status": "A",
+              "jersey": "34",
+              "fullname": "Lorenzo Taliaferro",
+              "id": "2129490",
+              "rank": 59,
+              "pro_team": "BAL"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Damien",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2130689.png",
+              "position": "RB",
+              "icons": {
+                "video": 1,
+                "headline": "Dolphins RB Damien Williams scores TD pass in Week 2 loss"
+              },
+              "lastname": "Williams",
+              "age": 23,
+              "elias_id": "WIL206455",
+              "pro_status": "A",
+              "jersey": "34",
+              "fullname": "Damien Williams",
+              "id": "2130689",
+              "rank": 60,
+              "pro_team": "MIA"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Josh",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1878033.png",
+              "position": "RB",
+              "lastname": "Robinson",
+              "age": 23,
+              "elias_id": "ROB590769",
+              "pro_status": "A",
+              "jersey": "34",
+              "fullname": "Josh Robinson",
+              "id": "1878033",
+              "rank": 61,
+              "pro_team": "IND"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "Antonio",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1776334.png",
+              "position": "RB",
+              "icons": {
+                "injury": "Hamstring: Probable for Week 3 vs. Indianapolis",
+                "headline": "Titans RB Antonio Andrews did not practice Wednesday"
+              },
+              "lastname": "Andrews",
+              "age": 23,
+              "elias_id": "AND650999",
+              "pro_status": "A",
+              "jersey": "26",
+              "fullname": "Antonio Andrews",
+              "id": "1776334",
+              "rank": 62,
+              "pro_team": "TEN"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "James",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1123431.png",
+              "position": "RB",
+              "icons": {
+                "hot": 1,
+                "headline": "Packers RB James Starks could split time with Eddie Lacy"
+              },
+              "lastname": "Starks",
+              "age": 29,
+              "elias_id": "STA583786",
+              "pro_status": "A",
+              "jersey": "44",
+              "fullname": "James Starks",
+              "id": "1123431",
+              "rank": 63,
+              "pro_team": "GB"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Lance",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1977147.png",
+              "position": "RB",
+              "lastname": "Dunbar",
+              "age": 25,
+              "elias_id": "DUN098604",
+              "pro_status": "A",
+              "jersey": "25",
+              "fullname": "Lance Dunbar",
+              "id": "1977147",
+              "rank": 64,
+              "pro_team": "DAL"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Theo",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1691614.png",
+              "position": "RB",
+              "lastname": "Riddick",
+              "age": 24,
+              "elias_id": "RID187949",
+              "pro_status": "A",
+              "jersey": "25",
+              "fullname": "Theo Riddick",
+              "id": "1691614",
+              "rank": 65,
+              "pro_team": "DET"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Denard",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1700475.png",
+              "position": "RB",
+              "icons": {
+                "injury": "Knee: Doubtful for Week 3 at New England",
+                "headline": "Jaguars RB Denard Robinson suffers knee injury in Week 2"
+              },
+              "lastname": "Robinson",
+              "age": 25,
+              "elias_id": "ROB399206",
+              "pro_status": "A",
+              "jersey": "16",
+              "fullname": "Denard Robinson",
+              "id": "1700475",
+              "rank": 66,
+              "pro_team": "JAC"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Roy",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1272498.png",
+              "position": "RB",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Helu",
+              "age": 26,
+              "elias_id": "HEL697773",
+              "pro_status": "A",
+              "jersey": "26",
+              "fullname": "Roy Helu",
+              "id": "1272498",
+              "rank": 67,
+              "pro_team": "OAK"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Jerick",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2129436.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Vikings RB Jerick McKinnon participates in Wednesday's practice"
+              },
+              "lastname": "McKinnon",
+              "age": 23,
+              "elias_id": "MCK656764",
+              "pro_status": "A",
+              "jersey": "31",
+              "fullname": "Jerick McKinnon",
+              "id": "2129436",
+              "rank": 68,
+              "pro_team": "MIN"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Darren",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/421419.png",
+              "position": "RB",
+              "lastname": "Sproles",
+              "age": 32,
+              "elias_id": "SPR711296",
+              "pro_status": "A",
+              "jersey": "43",
+              "fullname": "Darren Sproles",
+              "id": "421419",
+              "rank": 69,
+              "pro_team": "PHI"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Bilal",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1265393.png",
+              "position": "RB",
+              "icons": {
+                "hot": 1,
+                "headline": "Jets RB Bilal Powell rushes for 38 yards on 12 carries"
+              },
+              "lastname": "Powell",
+              "age": 26,
+              "elias_id": "POW162772",
+              "pro_status": "A",
+              "jersey": "29",
+              "fullname": "Bilal Powell",
+              "id": "1265393",
+              "rank": 70,
+              "pro_team": "NYJ"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Jeremy",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1762313.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Bears RB Jeremy Langford scores first career TD in Week 2"
+              },
+              "lastname": "Langford",
+              "age": 23,
+              "elias_id": "LAN550009",
+              "pro_status": "A",
+              "jersey": "36",
+              "fullname": "Jeremy Langford",
+              "id": "1762313",
+              "rank": 71,
+              "pro_team": "CHI"
+            },
+            {
+              "bye_week": null,
+              "firstname": "Montee",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Report: RB Montee Ball close to signing with Colts"
+              },
+              "lastname": "Ball",
+              "elias_id": "BAL572158",
+              "pro_status": "A",
+              "fullname": "Montee Ball",
+              "id": "1682170",
+              "rank": 72,
+              "pro_team": "FA"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Chris",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/523490.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Cardinals RB Andre Ellington a no-go against Bears"
+              },
+              "lastname": "Johnson",
+              "age": 30,
+              "elias_id": "JOH127799",
+              "pro_status": "A",
+              "jersey": "23",
+              "fullname": "Chris Johnson",
+              "id": "523490",
+              "rank": 73,
+              "pro_team": "ARI"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Chris",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1631997.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Texans RB Chris Polk receives two of eight targets in Week 2 loss"
+              },
+              "lastname": "Polk",
+              "age": 25,
+              "elias_id": "POL125846",
+              "pro_status": "A",
+              "jersey": "22",
+              "fullname": "Chris Polk",
+              "id": "1631997",
+              "rank": 74,
+              "pro_team": "HOU"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Branden",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2132786.png",
+              "position": "RB",
+              "lastname": "Oliver",
+              "age": 24,
+              "elias_id": "OLI200892",
+              "pro_status": "A",
+              "jersey": "43",
+              "fullname": "Branden Oliver",
+              "id": "2132786",
+              "rank": 75,
+              "pro_team": "SD"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Jonas",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1633112.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Dolphins promote running back Jonas Gray to active roster"
+              },
+              "lastname": "Gray",
+              "age": 25,
+              "elias_id": "GRA699244",
+              "pro_status": "A",
+              "fullname": "Jonas Gray",
+              "id": "1633112",
+              "rank": 76,
+              "pro_team": "MIA"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Jacquizz",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1631866.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Bears RB Jacquizz Rodgers receives two carries in Week 2"
+              },
+              "lastname": "Rodgers",
+              "age": 25,
+              "elias_id": "ROD369979",
+              "pro_status": "A",
+              "jersey": "35",
+              "fullname": "Jacquizz Rodgers",
+              "id": "1631866",
+              "rank": 77,
+              "pro_team": "CHI"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Zac",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1664982.png",
+              "position": "RB",
+              "lastname": "Stacy",
+              "age": 24,
+              "elias_id": "STA100025",
+              "pro_status": "A",
+              "jersey": "38",
+              "fullname": "Zac Stacy",
+              "id": "1664982",
+              "rank": 78,
+              "pro_team": "NYJ"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Jay",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1825212.png",
+              "position": "RB",
+              "icons": {
+                "injury": "Rib: IR. Designated for return"
+              },
+              "lastname": "Ajayi",
+              "age": 22,
+              "elias_id": "AJA771256",
+              "pro_status": "IR",
+              "jersey": "33",
+              "fullname": "Jay Ajayi",
+              "id": "1825212",
+              "rank": 79,
+              "pro_team": "MIA"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Bobby",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1979420.png",
+              "position": "RB",
+              "icons": {
+                "headline": "Buccaneers RB Bobby Rainey makes impact on special teams"
+              },
+              "lastname": "Rainey",
+              "age": 27,
+              "elias_id": "RAI596457",
+              "pro_status": "A",
+              "jersey": "43",
+              "fullname": "Bobby Rainey",
+              "id": "1979420",
+              "rank": 80,
+              "pro_team": "TB"
+            }
+          ]
+        },
+        {
+          "abbr": "WR",
+          "players": [
+            {
+              "bye_week": "11",
+              "firstname": "Antonio",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1272852.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Steelers' Antonio Brown nets nine catches, scores TD in Week 2"
+              },
+              "lastname": "Brown",
+              "age": 27,
+              "elias_id": "BRO000001",
+              "pro_status": "A",
+              "jersey": "84",
+              "fullname": "Antonio Brown",
+              "id": "1272852",
+              "rank": 1,
+              "pro_team": "PIT"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Demaryius",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1114965.png",
+              "position": "WR",
+              "icons": {
+                "hot": 1,
+                "headline": "Broncos WR Demaryius Thomas probable for Thursday's game"
+              },
+              "lastname": "Thomas",
+              "age": 27,
+              "elias_id": "THO095855",
+              "pro_status": "A",
+              "jersey": "88",
+              "fullname": "Demaryius Thomas",
+              "id": "1114965",
+              "rank": 2,
+              "pro_team": "DEN"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Dez",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1272524.png",
+              "position": "WR",
+              "icons": {
+                "injury": "Foot: Out for Week 3 vs. Atlanta",
+                "headline": "Roddy White: Cowboys WR Dez Bryant should be out for year"
+              },
+              "lastname": "Bryant",
+              "age": 26,
+              "elias_id": "BRY336027",
+              "pro_status": "A",
+              "jersey": "88",
+              "fullname": "Dez Bryant",
+              "id": "1272524",
+              "rank": 3,
+              "pro_team": "DAL"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Calvin",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/502629.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Lions star WR Calvin Johnson taken aback by four-target game"
+              },
+              "lastname": "Johnson",
+              "age": 29,
+              "elias_id": "JOH088640",
+              "pro_status": "A",
+              "jersey": "81",
+              "fullname": "Calvin Johnson",
+              "id": "502629",
+              "rank": 4,
+              "pro_team": "DET"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Julio",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1623794.png",
+              "position": "WR",
+              "icons": {
+                "injury": "Hamstring: Probable for Week 3 at Dallas",
+                "headline": "Falcons' Quinn expecting Julio Jones to be 'ready' to play Sunday"
+              },
+              "lastname": "Jones",
+              "age": 26,
+              "elias_id": "JON640315",
+              "pro_status": "A",
+              "jersey": "11",
+              "fullname": "Julio Jones",
+              "id": "1623794",
+              "rank": 5,
+              "pro_team": "ATL"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Odell",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1824823.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Giants WR Odell Beckham shows dominance in loss Sunday"
+              },
+              "lastname": "Beckham",
+              "age": 22,
+              "elias_id": "BEC573252",
+              "pro_status": "A",
+              "jersey": "13",
+              "fullname": "Odell Beckham",
+              "id": "1824823",
+              "rank": 6,
+              "pro_team": "NYG"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "A.J.",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1673207.png",
+              "position": "WR",
+              "icons": {
+                "injury": "Knee: Probable for Week 3 at Baltimore",
+                "headline": "Bengals WR A.J. Green snags first TD of season Sunday"
+              },
+              "lastname": "Green",
+              "age": 27,
+              "elias_id": "GRE034604",
+              "pro_status": "A",
+              "jersey": "18",
+              "fullname": "A.J. Green",
+              "id": "1673207",
+              "rank": 7,
+              "pro_team": "CIN"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Randall",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1632091.png",
+              "position": "WR",
+              "icons": {
+                "injury": "Shoulder: Full practice. Probable for Week 3 vs. Kansas City",
+                "headline": "Packers WR Randall Cobb limited in practice, should play Week 2"
+              },
+              "lastname": "Cobb",
+              "age": 25,
+              "elias_id": "COB365535",
+              "pro_status": "A",
+              "jersey": "18",
+              "fullname": "Randall Cobb",
+              "id": "1632091",
+              "rank": 8,
+              "pro_team": "GB"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "T.Y.",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1673733.png",
+              "position": "WR",
+              "icons": {
+                "video": 1,
+                "headline": "Colts' Pagano optimistic T.Y. Hilton (knee) will play Week 2"
+              },
+              "lastname": "Hilton",
+              "age": 25,
+              "elias_id": "HIL775449",
+              "pro_status": "A",
+              "jersey": "13",
+              "fullname": "T.Y. Hilton",
+              "id": "1673733",
+              "rank": 9,
+              "pro_team": "IND"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Mike",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1824909.png",
+              "position": "WR",
+              "icons": {
+                "video": 1,
+                "injury": "Hamstring: Probable for Week 3 at Houston",
+                "headline": "Bucs WR Mike Evans (hamstring) able to practice Wednesday"
+              },
+              "lastname": "Evans",
+              "age": 22,
+              "elias_id": "EVA534309",
+              "pro_status": "A",
+              "jersey": "13",
+              "fullname": "Mike Evans",
+              "id": "1824909",
+              "rank": 10,
+              "pro_team": "TB"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Brandin",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1880880.png",
+              "position": "WR",
+              "icons": {
+                "video": 1,
+                "injury": "Ankle: Probable for Week 3 at Carolina",
+                "headline": "Saints WR Brandin Cooks notches team-high five catches in loss"
+              },
+              "lastname": "Cooks",
+              "age": 22,
+              "elias_id": "COO299382",
+              "pro_status": "A",
+              "jersey": "10",
+              "fullname": "Brandin Cooks",
+              "id": "1880880",
+              "rank": 11,
+              "pro_team": "NO"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Alshon",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1686006.png",
+              "position": "WR",
+              "icons": {
+                "injury": "Hamstring: Out for Week 3 at Seattle",
+                "headline": "Bears' Alshon Jeffery not on injury report, likely ready for full workload"
+              },
+              "lastname": "Jeffery",
+              "age": 25,
+              "elias_id": "JEF498860",
+              "pro_status": "A",
+              "jersey": "17",
+              "fullname": "Alshon Jeffery",
+              "id": "1686006",
+              "rank": 12,
+              "pro_team": "CHI"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Jordan",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1759816.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Eagles WR Jordan Matthews goes for 80 yards, TD in loss"
+              },
+              "lastname": "Matthews",
+              "age": 23,
+              "elias_id": "MAT569663",
+              "pro_status": "A",
+              "jersey": "81",
+              "fullname": "Jordan Matthews",
+              "id": "1759816",
+              "rank": 13,
+              "pro_team": "PHI"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Emmanuel",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/564943.png",
+              "position": "WR",
+              "icons": {
+                "hot": 1,
+                "headline": "Broncos WR Emmanuel Sanders thrives in win over Chiefs"
+              },
+              "lastname": "Sanders",
+              "age": 28,
+              "elias_id": "SAN295989",
+              "pro_status": "A",
+              "jersey": "10",
+              "fullname": "Emmanuel Sanders",
+              "id": "564943",
+              "rank": 14,
+              "pro_team": "DEN"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Amari",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1984220.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Raiders' Amari Cooper hauls in seven catches for 109 yards, TD"
+              },
+              "lastname": "Cooper",
+              "age": 21,
+              "elias_id": "COO487703",
+              "pro_status": "A",
+              "jersey": "89",
+              "fullname": "Amari Cooper",
+              "id": "1984220",
+              "rank": 15,
+              "pro_team": "OAK"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "DeAndre",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1737078.png",
+              "position": "WR",
+              "icons": {
+                "injury": "Concussion: Probable for Week 3 vs. Tampa Bay",
+                "headline": "Texans WR DeAndre Hopkins dealing with concussion"
+              },
+              "lastname": "Hopkins",
+              "age": 23,
+              "elias_id": "HOP161500",
+              "pro_status": "A",
+              "jersey": "10",
+              "fullname": "DeAndre Hopkins",
+              "id": "1737078",
+              "rank": 16,
+              "pro_team": "HOU"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Andre",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/396162.png",
+              "position": "WR",
+              "icons": {
+                "video": 1,
+                "injury": "Not injury related: Probable for Week 3 at Tennessee",
+                "headline": "Colts WR Andre Johnson nabs three passes for 27 yards in loss"
+              },
+              "lastname": "Johnson",
+              "age": 34,
+              "elias_id": "JOH056462",
+              "pro_status": "A",
+              "jersey": "81",
+              "fullname": "Andre Johnson",
+              "id": "396162",
+              "rank": 17,
+              "pro_team": "IND"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Jarvis",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1824833.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Dolphins WR Jarvis Landry records eight catches for 110 yards"
+              },
+              "lastname": "Landry",
+              "age": 22,
+              "elias_id": "LAN163029",
+              "pro_status": "A",
+              "jersey": "14",
+              "fullname": "Jarvis Landry",
+              "id": "1824833",
+              "rank": 18,
+              "pro_team": "MIA"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Keenan",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1737096.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Chargers WR Keenan Allen likely to return punts in Week 2"
+              },
+              "lastname": "Allen",
+              "age": 23,
+              "elias_id": "ALL532966",
+              "pro_status": "A",
+              "jersey": "13",
+              "fullname": "Keenan Allen",
+              "id": "1737096",
+              "rank": 19,
+              "pro_team": "SD"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Sammy",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1850743.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Bills WR Sammy Watkins nabs six passes for 60 yards, TD in loss"
+              },
+              "lastname": "Watkins",
+              "age": 22,
+              "elias_id": "WAT270480",
+              "pro_status": "A",
+              "jersey": "14",
+              "fullname": "Sammy Watkins",
+              "id": "1850743",
+              "rank": 20,
+              "pro_team": "BUF"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Davante",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1893167.png",
+              "position": "WR",
+              "icons": {
+                "injury": "Ankle: Limited practice. Questionable for Week 3 vs. Kansas City",
+                "headline": "Packers' Davante Adams questionable to return with ankle injury"
+              },
+              "lastname": "Adams",
+              "age": 22,
+              "elias_id": "ADA218591",
+              "pro_status": "A",
+              "jersey": "17",
+              "fullname": "Davante Adams",
+              "id": "1893167",
+              "rank": 21,
+              "pro_team": "GB"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "Julian",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1674116.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Patriots WR Julian Edelman snags 11 again in Sunday win"
+              },
+              "lastname": "Edelman",
+              "age": 29,
+              "elias_id": "EDE425791",
+              "pro_status": "A",
+              "jersey": "11",
+              "fullname": "Julian Edelman",
+              "id": "1674116",
+              "rank": 22,
+              "pro_team": "NE"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Nelson",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1996508.png",
+              "position": "WR",
+              "icons": {
+                "cold": 1,
+                "video": 1
+              },
+              "lastname": "Agholor",
+              "age": 22,
+              "elias_id": "AGH474619",
+              "pro_status": "A",
+              "jersey": "17",
+              "fullname": "Nelson Agholor",
+              "id": "1996508",
+              "rank": 23,
+              "pro_team": "PHI"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Allen",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1889923.png",
+              "position": "WR",
+              "icons": {
+                "video": 1,
+                "hot": 1,
+                "headline": "Jaguars WR Allen Robinson (knee) on track to play Week 2"
+              },
+              "lastname": "Robinson",
+              "age": 22,
+              "elias_id": "ROB365982",
+              "pro_status": "A",
+              "jersey": "15",
+              "fullname": "Allen Robinson",
+              "id": "1889923",
+              "rank": 24,
+              "pro_team": "JAC"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Brandon",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/426135.png",
+              "position": "WR",
+              "icons": {
+                "video": 1,
+                "headline": "Jets' Brandon Marshall catches seven passes for 101 yards, TD"
+              },
+              "lastname": "Marshall",
+              "age": 31,
+              "elias_id": "MAR370922",
+              "pro_status": "A",
+              "jersey": "15",
+              "fullname": "Brandon Marshall",
+              "id": "426135",
+              "rank": 25,
+              "pro_team": "NYJ"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Martavis",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1737158.png",
+              "position": "WR",
+              "icons": {
+                "suspension": "Suspension: 4-game suspension. Eligible to return Week 5 at San Diego"
+              },
+              "lastname": "Bryant",
+              "age": 23,
+              "elias_id": "BRY499889",
+              "pro_status": "A",
+              "jersey": "10",
+              "fullname": "Martavis Bryant",
+              "id": "1737158",
+              "rank": 26,
+              "pro_team": "PIT"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "DeSean",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/559554.png",
+              "position": "WR",
+              "icons": {
+                "injury": "Hamstring: Missed Week 3 at N.Y. Giants",
+                "headline": "Redskins WR DeSean Jackson officially down for Week 2"
+              },
+              "lastname": "Jackson",
+              "age": 28,
+              "elias_id": "JAC127681",
+              "pro_status": "A",
+              "jersey": "11",
+              "fullname": "DeSean Jackson",
+              "id": "559554",
+              "rank": 27,
+              "pro_team": "WAS"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Golden",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1265470.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Lions WR Golden Tate (quadriceps) did not practice Wednesday"
+              },
+              "lastname": "Tate",
+              "age": 27,
+              "elias_id": "TAT245022",
+              "pro_status": "A",
+              "jersey": "15",
+              "fullname": "Golden Tate",
+              "id": "1265470",
+              "rank": 28,
+              "pro_team": "DET"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Charles",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2057693.png",
+              "position": "WR",
+              "icons": {
+                "cold": 1,
+                "headline": "Vikings WR Charles Johnson hauls in three passes in Week 2"
+              },
+              "lastname": "Johnson",
+              "age": 26,
+              "elias_id": "JOH105729",
+              "pro_status": "A",
+              "jersey": "12",
+              "fullname": "Charles Johnson",
+              "id": "2057693",
+              "rank": 29,
+              "pro_team": "MIN"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Jeremy",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1123324.png",
+              "position": "WR",
+              "icons": {
+                "injury": "Knee: Full practice. Probable for Week 3 at Green Bay",
+                "hot": 1,
+                "headline": "Chiefs WR Jeremy Maclin able to practice in full Tuesday"
+              },
+              "lastname": "Maclin",
+              "age": 27,
+              "elias_id": "MAC710352",
+              "pro_status": "A",
+              "jersey": "19",
+              "fullname": "Jeremy Maclin",
+              "id": "1123324",
+              "rank": 30,
+              "pro_team": "KC"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "John",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2129438.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Cardinals WR John Brown catches five in Week 2"
+              },
+              "lastname": "Brown",
+              "age": 25,
+              "elias_id": "BRO494712",
+              "pro_status": "A",
+              "jersey": "12",
+              "fullname": "John Brown",
+              "id": "2129438",
+              "rank": 31,
+              "pro_team": "ARI"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Vincent",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/541651.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Bucs' Vincent Jackson nabs three catches,scores TD in Week 2 win"
+              },
+              "lastname": "Jackson",
+              "age": 32,
+              "elias_id": "JAC627460",
+              "pro_status": "A",
+              "jersey": "83",
+              "fullname": "Vincent Jackson",
+              "id": "541651",
+              "rank": 32,
+              "pro_team": "TB"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Mike",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/559250.png",
+              "position": "WR",
+              "lastname": "Wallace",
+              "age": 29,
+              "elias_id": "WAL468678",
+              "pro_status": "A",
+              "jersey": "11",
+              "fullname": "Mike Wallace",
+              "id": "559250",
+              "rank": 33,
+              "pro_team": "MIN"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Steve",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/235157.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Ravens WR Steve Smith will continue to field punts"
+              },
+              "lastname": "Smith",
+              "age": 36,
+              "elias_id": "SMI733120",
+              "pro_status": "A",
+              "jersey": "89",
+              "fullname": "Steve Smith",
+              "id": "235157",
+              "rank": 34,
+              "pro_team": "BAL"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "DeVante",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1851283.png",
+              "position": "WR",
+              "icons": {
+                "cold": 1,
+                "headline": "Dolphins WR DeVante Parker seeking more playing time"
+              },
+              "lastname": "Parker",
+              "age": 22,
+              "elias_id": "PAR226609",
+              "pro_status": "A",
+              "jersey": "11",
+              "fullname": "DeVante Parker",
+              "id": "1851283",
+              "rank": 35,
+              "pro_team": "MIA"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Michael",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1633109.png",
+              "position": "WR",
+              "icons": {
+                "video": 1,
+                "headline": "Cardinals WR Michael Floyd practices fully Wednesday"
+              },
+              "lastname": "Floyd",
+              "age": 25,
+              "elias_id": "FLO764240",
+              "pro_status": "A",
+              "jersey": "15",
+              "fullname": "Michael Floyd",
+              "id": "1633109",
+              "rank": 36,
+              "pro_team": "ARI"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Roddy",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/523103.png",
+              "position": "WR",
+              "icons": {
+                "video": 1
+              },
+              "lastname": "White",
+              "age": 33,
+              "elias_id": "WHI472686",
+              "pro_status": "A",
+              "jersey": "84",
+              "fullname": "Roddy White",
+              "id": "523103",
+              "rank": 37,
+              "pro_team": "ATL"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Anquan",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/395928.png",
+              "position": "WR",
+              "icons": {
+                "headline": "49ers WR Anquan Boldin leads team with 10 targets in Week 2 loss"
+              },
+              "lastname": "Boldin",
+              "age": 34,
+              "elias_id": "BOL283010",
+              "pro_status": "A",
+              "jersey": "81",
+              "fullname": "Anquan Boldin",
+              "id": "395928",
+              "rank": 38,
+              "pro_team": "SF"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Torrey",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1242961.png",
+              "position": "WR",
+              "icons": {
+                "video": 1,
+                "injury": "Knee: Probable for Week 3 at Arizona",
+                "headline": "49ers WR Torrey Smith nets six catches, scores TD in Week 2 loss"
+              },
+              "lastname": "Smith",
+              "age": 26,
+              "elias_id": "SMI344958",
+              "pro_status": "A",
+              "jersey": "82",
+              "fullname": "Torrey Smith",
+              "id": "1242961",
+              "rank": 39,
+              "pro_team": "SF"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "Kendall",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1632385.png",
+              "position": "WR",
+              "icons": {
+                "cold": 1,
+                "video": 1
+              },
+              "lastname": "Wright",
+              "age": 25,
+              "elias_id": "WRI486076",
+              "pro_status": "A",
+              "jersey": "13",
+              "fullname": "Kendall Wright",
+              "id": "1632385",
+              "rank": 40,
+              "pro_team": "TEN"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Larry",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/492934.png",
+              "position": "WR",
+              "icons": {
+                "hot": 1,
+                "headline": "Cardinals WR Larry Fitzgerald visits end zone three times Sunday"
+              },
+              "lastname": "Fitzgerald",
+              "age": 32,
+              "elias_id": "FIT437493",
+              "pro_status": "A",
+              "jersey": "11",
+              "fullname": "Larry Fitzgerald",
+              "id": "492934",
+              "rank": 41,
+              "pro_team": "ARI"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Eddie",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/516510.png",
+              "position": "WR",
+              "icons": {
+                "injury": "Back, hip: Questionable for Week 3 at Seattle",
+                "headline": "WR Eddie Royal no longer listed on Bears' injury report"
+              },
+              "lastname": "Royal",
+              "age": 29,
+              "elias_id": "ROY461040",
+              "pro_status": "A",
+              "jersey": "19",
+              "fullname": "Eddie Royal",
+              "id": "516510",
+              "rank": 42,
+              "pro_team": "CHI"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Devin",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2001877.png",
+              "position": "WR",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Funchess",
+              "age": 21,
+              "elias_id": "FUN405541",
+              "pro_status": "A",
+              "jersey": "17",
+              "fullname": "Devin Funchess",
+              "id": "2001877",
+              "rank": 43,
+              "pro_team": "CAR"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Terrance",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1632384.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Cowboys WR Terrance Williams makes four catches for 84 yards"
+              },
+              "lastname": "Williams",
+              "age": 26,
+              "elias_id": "WIL532584",
+              "pro_status": "A",
+              "jersey": "83",
+              "fullname": "Terrance Williams",
+              "id": "1632384",
+              "rank": 44,
+              "pro_team": "DAL"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Allen",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2130337.png",
+              "position": "WR",
+              "icons": {
+                "injury": "Thigh: Probable for Week 3 at New England",
+                "headline": "Thigh issue limits Jaguars WR Allen Hurns on Thursday"
+              },
+              "lastname": "Hurns",
+              "age": 23,
+              "elias_id": "HUR436342",
+              "pro_status": "A",
+              "jersey": "88",
+              "fullname": "Allen Hurns",
+              "id": "2130337",
+              "rank": 45,
+              "pro_team": "JAC"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Tyler",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1860834.png",
+              "position": "WR",
+              "lastname": "Lockett",
+              "age": 22,
+              "elias_id": "LOC420915",
+              "pro_status": "A",
+              "jersey": "16",
+              "fullname": "Tyler Lockett",
+              "id": "1860834",
+              "rank": 46,
+              "pro_team": "SEA"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Steve",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1116922.png",
+              "position": "WR",
+              "icons": {
+                "video": 1,
+                "headline": "Chargers WR Steve Johnson records touchdown in Week 2 loss"
+              },
+              "lastname": "Johnson",
+              "age": 29,
+              "elias_id": "JOH673533",
+              "pro_status": "A",
+              "jersey": "11",
+              "fullname": "Steve Johnson",
+              "id": "1116922",
+              "rank": 47,
+              "pro_team": "SD"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Victor",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1684073.png",
+              "position": "WR",
+              "icons": {
+                "injury": "Calf: Missed Week 3 vs. Washington",
+                "headline": "Speculation targeting Week 4 return for Giants WR Victor Cruz"
+              },
+              "lastname": "Cruz",
+              "age": 28,
+              "elias_id": "CRU827288",
+              "pro_status": "A",
+              "jersey": "80",
+              "fullname": "Victor Cruz",
+              "id": "1684073",
+              "rank": 48,
+              "pro_team": "NYG"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Cody",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1889883.png",
+              "position": "WR",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Latimer",
+              "age": 22,
+              "elias_id": "LAT362049",
+              "pro_status": "A",
+              "jersey": "14",
+              "fullname": "Cody Latimer",
+              "id": "1889883",
+              "rank": 49,
+              "pro_team": "DEN"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Breshad",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1984950.png",
+              "position": "WR",
+              "icons": {
+                "injury": "Knee: Out for Week 3 vs. Cincinnati",
+                "headline": "Ravens WR Breshad Perriman (knee) did not practice Wednesday"
+              },
+              "lastname": "Perriman",
+              "age": 22,
+              "elias_id": "PER440170",
+              "pro_status": "A",
+              "jersey": "18",
+              "fullname": "Breshad Perriman",
+              "id": "1984950",
+              "rank": 50,
+              "pro_team": "BAL"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "James",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/431446.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Packers WR James Jones scores touchdown in Week 2 win"
+              },
+              "lastname": "Jones",
+              "age": 31,
+              "elias_id": "JON404681",
+              "pro_status": "A",
+              "jersey": "89",
+              "fullname": "James Jones",
+              "id": "431446",
+              "rank": 51,
+              "pro_team": "GB"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "Dorial",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1996129.png",
+              "position": "WR",
+              "icons": {
+                "video": 1,
+                "headline": "Titans WR Dorial Green-Beckham scores first career TD in Week 2"
+              },
+              "lastname": "Green-Beckham",
+              "age": 22,
+              "elias_id": "GRE398545",
+              "pro_status": "A",
+              "jersey": "17",
+              "fullname": "Dorial Green-Beckham",
+              "id": "1996129",
+              "rank": 52,
+              "pro_team": "TEN"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Markus",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1679942.png",
+              "position": "WR",
+              "icons": {
+                "injury": "Chest: Probable for Week 3 at St. Louis",
+                "headline": "Steelers WR Markus Wheaton nets two catches in Week 2 win"
+              },
+              "lastname": "Wheaton",
+              "age": 24,
+              "elias_id": "WHE120992",
+              "pro_status": "A",
+              "jersey": "11",
+              "fullname": "Markus Wheaton",
+              "id": "1679942",
+              "rank": 53,
+              "pro_team": "PIT"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Eric",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/584290.png",
+              "position": "WR",
+              "icons": {
+                "video": 1,
+                "injury": "Knee: Questionable for Week 3 vs. Philadelphia",
+                "headline": "Jets WR Eric Decker leaves game with knee injury"
+              },
+              "lastname": "Decker",
+              "age": 28,
+              "elias_id": "DEC487021",
+              "pro_status": "A",
+              "jersey": "87",
+              "fullname": "Eric Decker",
+              "id": "584290",
+              "rank": 54,
+              "pro_team": "NYJ"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Marvin",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1631804.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Bengals WR Marvin Jones scores a touchdown in Week 2 win"
+              },
+              "lastname": "Jones",
+              "age": 25,
+              "elias_id": "JON601697",
+              "pro_status": "A",
+              "jersey": "82",
+              "fullname": "Marvin Jones",
+              "id": "1631804",
+              "rank": 55,
+              "pro_team": "CIN"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Phillip",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1836058.png",
+              "position": "WR",
+              "icons": {
+                "cold": 1,
+                "video": 1
+              },
+              "lastname": "Dorsett",
+              "age": 22,
+              "elias_id": "DOR488199",
+              "pro_status": "A",
+              "jersey": "15",
+              "fullname": "Phillip Dorsett",
+              "id": "1836058",
+              "rank": 56,
+              "pro_team": "IND"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Marques",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/408644.png",
+              "position": "WR",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Colston",
+              "age": 32,
+              "elias_id": "COL777594",
+              "pro_status": "A",
+              "jersey": "12",
+              "fullname": "Marques Colston",
+              "id": "408644",
+              "rank": 57,
+              "pro_team": "NO"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Brandon",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1737368.png",
+              "position": "WR",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Coleman",
+              "age": 23,
+              "elias_id": "COL222062",
+              "pro_status": "A",
+              "jersey": "16",
+              "fullname": "Brandon Coleman",
+              "id": "1737368",
+              "rank": 58,
+              "pro_team": "NO"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Michael",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1125838.png",
+              "position": "WR",
+              "icons": {
+                "video": 1,
+                "hot": 1,
+                "headline": "Raiders WR Michael Crabtree nabs team-high 111 yards, TD"
+              },
+              "lastname": "Crabtree",
+              "age": 28,
+              "elias_id": "CRA111040",
+              "pro_status": "A",
+              "jersey": "15",
+              "fullname": "Michael Crabtree",
+              "id": "1125838",
+              "rank": 59,
+              "pro_team": "OAK"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Pierre",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/583087.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Redskins WR Pierre Garcon catches team-high six passes in win"
+              },
+              "lastname": "Garcon",
+              "age": 29,
+              "elias_id": "GAR115573",
+              "pro_status": "A",
+              "jersey": "88",
+              "fullname": "Pierre Garcon",
+              "id": "583087",
+              "rank": 60,
+              "pro_team": "WAS"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Kenny",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1115016.png",
+              "position": "WR",
+              "icons": {
+                "video": 1,
+                "headline": "Rams WR Kenny Britt tallies lone score in Sunday defeat"
+              },
+              "lastname": "Britt",
+              "age": 27,
+              "elias_id": "BRI708216",
+              "pro_status": "A",
+              "jersey": "18",
+              "fullname": "Kenny Britt",
+              "id": "1115016",
+              "rank": 61,
+              "pro_team": "STL"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "Brandon",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/558591.png",
+              "position": "WR",
+              "icons": {
+                "injury": "Foot: PUP. Out until at least early November "
+              },
+              "lastname": "LaFell",
+              "age": 28,
+              "elias_id": "LAF184731",
+              "pro_status": "A",
+              "jersey": "19",
+              "fullname": "Brandon LaFell",
+              "id": "558591",
+              "rank": 62,
+              "pro_team": "NE"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Cole",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1977145.png",
+              "position": "WR",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Beasley",
+              "age": 26,
+              "elias_id": "BEA434808",
+              "pro_status": "A",
+              "jersey": "11",
+              "fullname": "Cole Beasley",
+              "id": "1977145",
+              "rank": 63,
+              "pro_team": "DAL"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "Harry",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/436547.png",
+              "position": "WR",
+              "lastname": "Douglas",
+              "age": 31,
+              "elias_id": "DOU372712",
+              "pro_status": "A",
+              "jersey": "83",
+              "fullname": "Harry Douglas",
+              "id": "436547",
+              "rank": 64,
+              "pro_team": "TEN"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Mohamed",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1664646.png",
+              "position": "WR",
+              "lastname": "Sanu",
+              "age": 26,
+              "elias_id": "SAN808447",
+              "pro_status": "A",
+              "jersey": "12",
+              "fullname": "Mohamed Sanu",
+              "id": "1664646",
+              "rank": 65,
+              "pro_team": "CIN"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Jaelen",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2061051.png",
+              "position": "WR",
+              "lastname": "Strong",
+              "age": 21,
+              "elias_id": "STR627834",
+              "pro_status": "A",
+              "jersey": "11",
+              "fullname": "Jaelen Strong",
+              "id": "2061051",
+              "rank": 66,
+              "pro_team": "HOU"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Jeff",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2028397.png",
+              "position": "WR",
+              "lastname": "Janis",
+              "age": 24,
+              "elias_id": "JAN413854",
+              "pro_status": "A",
+              "jersey": "83",
+              "fullname": "Jeff Janis",
+              "id": "2028397",
+              "rank": 67,
+              "pro_team": "GB"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Stedman",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1664860.png",
+              "position": "WR",
+              "lastname": "Bailey",
+              "age": 24,
+              "elias_id": "BAI627251",
+              "pro_status": "A",
+              "jersey": "12",
+              "fullname": "Stedman Bailey",
+              "id": "1664860",
+              "rank": 68,
+              "pro_team": "STL"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Kenny",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1737295.png",
+              "position": "WR",
+              "lastname": "Stills",
+              "age": 23,
+              "elias_id": "STI417540",
+              "pro_status": "A",
+              "jersey": "10",
+              "fullname": "Kenny Stills",
+              "id": "1737295",
+              "rank": 69,
+              "pro_team": "MIA"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Marqise",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1851123.png",
+              "position": "WR",
+              "icons": {
+                "injury": "Hamstring: Probable for Week 3 at New England",
+                "headline": "Marqise Lee's return could mean less targets for Rashad Greene"
+              },
+              "lastname": "Lee",
+              "age": 23,
+              "elias_id": "LEE466282",
+              "pro_status": "A",
+              "jersey": "11",
+              "fullname": "Marqise Lee",
+              "id": "1851123",
+              "rank": 70,
+              "pro_team": "JAC"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "Justin",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1737463.png",
+              "position": "WR",
+              "lastname": "Hunter",
+              "age": 24,
+              "elias_id": "HUN711562",
+              "pro_status": "A",
+              "jersey": "15",
+              "fullname": "Justin Hunter",
+              "id": "1737463",
+              "rank": 71,
+              "pro_team": "TEN"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Brian",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1687422.png",
+              "position": "WR",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Quick",
+              "age": 26,
+              "elias_id": "QUI043372",
+              "pro_status": "A",
+              "fullname": "Brian Quick",
+              "id": "1687422",
+              "rank": 72,
+              "pro_team": "STL"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Ty",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1851149.png",
+              "position": "WR",
+              "lastname": "Montgomery",
+              "age": 22,
+              "elias_id": "MON677133",
+              "pro_status": "A",
+              "jersey": "88",
+              "fullname": "Ty Montgomery",
+              "id": "1851149",
+              "rank": 73,
+              "pro_team": "GB"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Rueben",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1679976.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Giants WR Rueben Randle enjoys big performance in Week 3 win"
+              },
+              "lastname": "Randle",
+              "age": 24,
+              "elias_id": "RAN372502",
+              "pro_status": "A",
+              "jersey": "82",
+              "fullname": "Rueben Randle",
+              "id": "1679976",
+              "rank": 74,
+              "pro_team": "NYG"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Brian",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/563622.png",
+              "position": "WR",
+              "lastname": "Hartline",
+              "age": 28,
+              "elias_id": "HAR725593",
+              "pro_status": "A",
+              "jersey": "83",
+              "fullname": "Brian Hartline",
+              "id": "563622",
+              "rank": 75,
+              "pro_team": "CLE"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Tavon",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1700338.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Rams WR Tavon Austin gets team-high 40 rushing yards"
+              },
+              "lastname": "Austin",
+              "age": 24,
+              "elias_id": "AUS659596",
+              "pro_status": "A",
+              "jersey": "11",
+              "fullname": "Tavon Austin",
+              "id": "1700338",
+              "rank": 76,
+              "pro_team": "STL"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Chris",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1824756.png",
+              "position": "WR",
+              "icons": {
+                "headline": "Chiefs WR Chris Conley played one snap in Week 2"
+              },
+              "lastname": "Conley",
+              "age": 22,
+              "elias_id": "CON236839",
+              "pro_status": "A",
+              "jersey": "17",
+              "fullname": "Chris Conley",
+              "id": "1824756",
+              "rank": 77,
+              "pro_team": "KC"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Percy",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1114598.png",
+              "position": "WR",
+              "icons": {
+                "injury": "Hip: Probable for Week 3 at Miami",
+                "headline": "Bills WR Percy Harvin sits out again Wednesday to rest hip injury"
+              },
+              "lastname": "Harvin",
+              "age": 27,
+              "elias_id": "HAR829482",
+              "pro_status": "A",
+              "jersey": "18",
+              "fullname": "Percy Harvin",
+              "id": "1114598",
+              "rank": 78,
+              "pro_team": "BUF"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "Hakeem",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "WR",
+              "lastname": "Nicks",
+              "elias_id": "NIC726593",
+              "pro_status": "A",
+              "fullname": "Hakeem Nicks",
+              "id": "1117392",
+              "rank": 79,
+              "pro_team": "TEN"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Greg",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/413737.png",
+              "position": "WR",
+              "lastname": "Jennings",
+              "age": 32,
+              "elias_id": "JEN480468",
+              "pro_status": "A",
+              "jersey": "85",
+              "fullname": "Greg Jennings",
+              "id": "413737",
+              "rank": 80,
+              "pro_team": "MIA"
+            }
+          ]
+        },
+        {
+          "abbr": "TE",
+          "players": [
+            {
+              "bye_week": "4",
+              "firstname": "Rob",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1244303.png",
+              "position": "TE",
+              "icons": {
+                "headline": "Patriots TE Rob Gronkowski adds to TD total in Week 2"
+              },
+              "lastname": "Gronkowski",
+              "age": 26,
+              "elias_id": "GRO135948",
+              "pro_status": "A",
+              "jersey": "87",
+              "fullname": "Rob Gronkowski",
+              "id": "1244303",
+              "rank": 1,
+              "pro_team": "NE"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Jimmy",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1691166.png",
+              "position": "TE",
+              "icons": {
+                "video": 1,
+                "headline": "Seahawks TE Jimmy Graham hauls in one pass in Sunday's loss"
+              },
+              "lastname": "Graham",
+              "age": 28,
+              "elias_id": "GRA207087",
+              "pro_status": "A",
+              "jersey": "88",
+              "fullname": "Jimmy Graham",
+              "id": "1691166",
+              "rank": 2,
+              "pro_team": "SEA"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Travis",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1725130.png",
+              "position": "TE",
+              "icons": {
+                "hot": 1,
+                "headline": "Chiefs TE Travis Kelce practices in full all week, listed as probable"
+              },
+              "lastname": "Kelce",
+              "age": 25,
+              "elias_id": "KEL012458",
+              "pro_status": "A",
+              "jersey": "87",
+              "fullname": "Travis Kelce",
+              "id": "1725130",
+              "rank": 3,
+              "pro_team": "KC"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Greg",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/502524.png",
+              "position": "TE",
+              "icons": {
+                "headline": "Panthers TE Greg Olsen targeted 14 times in Week 2 win"
+              },
+              "lastname": "Olsen",
+              "age": 30,
+              "elias_id": "OLS094822",
+              "pro_status": "A",
+              "jersey": "88",
+              "fullname": "Greg Olsen",
+              "id": "502524",
+              "rank": 4,
+              "pro_team": "CAR"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Martellus",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/564954.png",
+              "position": "TE",
+              "lastname": "Bennett",
+              "age": 28,
+              "elias_id": "BEN379259",
+              "pro_status": "A",
+              "jersey": "83",
+              "fullname": "Martellus Bennett",
+              "id": "564954",
+              "rank": 5,
+              "pro_team": "CHI"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Dwayne",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1630216.png",
+              "position": "TE",
+              "icons": {
+                "video": 1,
+                "injury": "Ankle: Out for Week 3 at Tennessee",
+                "headline": "Colts TE Dwayne Allen leaves game with ankle injury"
+              },
+              "lastname": "Allen",
+              "age": 25,
+              "elias_id": "ALL164177",
+              "pro_status": "A",
+              "jersey": "83",
+              "fullname": "Dwayne Allen",
+              "id": "1630216",
+              "rank": 6,
+              "pro_team": "IND"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Jordan",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1244459.png",
+              "position": "TE",
+              "icons": {
+                "video": 1,
+                "injury": "Groin: Questionable for Week 3 vs. Buffalo",
+                "headline": "Dolphins TE Dion Sims officially ruled out for Week 2 vs. Jags"
+              },
+              "lastname": "Cameron",
+              "age": 27,
+              "elias_id": "CAM107841",
+              "pro_status": "A",
+              "jersey": "84",
+              "fullname": "Jordan Cameron",
+              "id": "1244459",
+              "rank": 7,
+              "pro_team": "MIA"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Tyler",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1691608.png",
+              "position": "TE",
+              "icons": {
+                "video": 1,
+                "headline": "Bengals WR Tyler Eifert stays hot in defeat of San Diego"
+              },
+              "lastname": "Eifert",
+              "age": 25,
+              "elias_id": "EIF131143",
+              "pro_status": "A",
+              "jersey": "85",
+              "fullname": "Tyler Eifert",
+              "id": "1691608",
+              "rank": 8,
+              "pro_team": "CIN"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Jason",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/396134.png",
+              "position": "TE",
+              "icons": {
+                "injury": "Ankle, knee: Probable for Week 3 vs. Atlanta",
+                "headline": "Cowboys TE Jason Witten records 56 yards on seven catches"
+              },
+              "lastname": "Witten",
+              "age": 33,
+              "elias_id": "WIT559021",
+              "pro_status": "A",
+              "jersey": "82",
+              "fullname": "Jason Witten",
+              "id": "396134",
+              "rank": 9,
+              "pro_team": "DAL"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Benjamin",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/493107.png",
+              "position": "TE",
+              "lastname": "Watson",
+              "age": 34,
+              "elias_id": "WAT311042",
+              "pro_status": "A",
+              "jersey": "82",
+              "fullname": "Benjamin Watson",
+              "id": "493107",
+              "rank": 10,
+              "pro_team": "NO"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Kyle",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1633122.png",
+              "position": "TE",
+              "icons": {
+                "hot": 1,
+                "headline": "Vikings TE Kyle Rudolph nabs TD in win over Lions"
+              },
+              "lastname": "Rudolph",
+              "age": 25,
+              "elias_id": "RUD559717",
+              "pro_status": "A",
+              "jersey": "82",
+              "fullname": "Kyle Rudolph",
+              "id": "1633122",
+              "rank": 11,
+              "pro_team": "MIN"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "Delanie",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1109396.png",
+              "position": "TE",
+              "icons": {
+                "injury": "Hand: Probable for Week 3 vs. Indianapolis",
+                "headline": "Titans TE Delanie Walker says he has sprained ligament in wrist"
+              },
+              "lastname": "Walker",
+              "age": 31,
+              "elias_id": "WAL115671",
+              "pro_status": "A",
+              "jersey": "82",
+              "fullname": "Delanie Walker",
+              "id": "1109396",
+              "rank": 12,
+              "pro_team": "TEN"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Julius",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1755056.png",
+              "position": "TE",
+              "icons": {
+                "injury": "Hand: Out for Week 3 at New England",
+                "headline": "Jaguars TE Julius Thomas cleared for limited work Wednesday"
+              },
+              "lastname": "Thomas",
+              "age": 27,
+              "elias_id": "THO265401",
+              "pro_status": "A",
+              "jersey": "80",
+              "fullname": "Julius Thomas",
+              "id": "1755056",
+              "rank": 13,
+              "pro_team": "JAC"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Antonio",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/396811.png",
+              "position": "TE",
+              "icons": {
+                "suspension": "Suspension: 4-game suspension. Eligible to return Week 5 vs. Pittsburgh"
+              },
+              "lastname": "Gates",
+              "age": 35,
+              "elias_id": "GAT194627",
+              "pro_status": "A",
+              "jersey": "85",
+              "fullname": "Antonio Gates",
+              "id": "396811",
+              "rank": 14,
+              "pro_team": "SD"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Crockett",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1752548.png",
+              "position": "TE",
+              "icons": {
+                "video": 1,
+                "hot": 1,
+                "headline": "Ravens TE Crockett Gillmore scores two TDs in loss"
+              },
+              "lastname": "Gillmore",
+              "age": 23,
+              "elias_id": "GIL677592",
+              "pro_status": "A",
+              "jersey": "80",
+              "fullname": "Crockett Gillmore",
+              "id": "1752548",
+              "rank": 15,
+              "pro_team": "BAL"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Owen",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/409170.png",
+              "position": "TE",
+              "icons": {
+                "cold": 1,
+                "headline": "Broncos TE Owen Daniels records three catches for 19 yards"
+              },
+              "lastname": "Daniels",
+              "age": 32,
+              "elias_id": "DAN576298",
+              "pro_status": "A",
+              "jersey": "81",
+              "fullname": "Owen Daniels",
+              "id": "409170",
+              "rank": 16,
+              "pro_team": "DEN"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Eric",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1865396.png",
+              "position": "TE",
+              "icons": {
+                "video": 1,
+                "hot": 1,
+                "headline": "Lions TE Eric Ebron scores touchdown in loss to Vikings"
+              },
+              "lastname": "Ebron",
+              "age": 22,
+              "elias_id": "EBR474619",
+              "pro_status": "A",
+              "jersey": "85",
+              "fullname": "Eric Ebron",
+              "id": "1865396",
+              "rank": 17,
+              "pro_team": "DET"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Austin",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1824731.png",
+              "position": "TE",
+              "icons": {
+                "injury": "Shoulder: Out for Week 3 at Houston",
+                "headline": "Bucs' Austin Seferian-Jenkins catches two passes for 29 yards"
+              },
+              "lastname": "Seferian-Jenkins",
+              "age": 22,
+              "elias_id": "SEF177981",
+              "pro_status": "A",
+              "jersey": "87",
+              "fullname": "Austin Seferian-Jenkins",
+              "id": "1824731",
+              "rank": 18,
+              "pro_team": "TB"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Vernon",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/409254.png",
+              "position": "TE",
+              "icons": {
+                "headline": "49ers' Vernon Davis catches five of seven intended passes in Week 2"
+              },
+              "lastname": "Davis",
+              "age": 31,
+              "elias_id": "DAV785142",
+              "pro_status": "A",
+              "jersey": "85",
+              "fullname": "Vernon Davis",
+              "id": "409254",
+              "rank": 19,
+              "pro_team": "SF"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "Scott",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/408163.png",
+              "position": "TE",
+              "lastname": "Chandler",
+              "age": 30,
+              "elias_id": "CHA313999",
+              "pro_status": "A",
+              "jersey": "88",
+              "fullname": "Scott Chandler",
+              "id": "408163",
+              "rank": 20,
+              "pro_team": "NE"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Zach",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1685963.png",
+              "position": "TE",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Ertz",
+              "age": 24,
+              "elias_id": "ERT800920",
+              "pro_status": "A",
+              "jersey": "86",
+              "fullname": "Zach Ertz",
+              "id": "1685963",
+              "rank": 21,
+              "pro_team": "PHI"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Coby",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1244492.png",
+              "position": "TE",
+              "icons": {
+                "headline": "Colts TE Dwayne Allen set to sit Sunday against Titans"
+              },
+              "lastname": "Fleener",
+              "age": 27,
+              "elias_id": "FLE075352",
+              "pro_status": "A",
+              "jersey": "80",
+              "fullname": "Coby Fleener",
+              "id": "1244492",
+              "rank": 22,
+              "pro_team": "IND"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Charles",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1265552.png",
+              "position": "TE",
+              "icons": {
+                "headline": "Bills TE Charles Clay was big feature in offense during Week 2"
+              },
+              "lastname": "Clay",
+              "age": 26,
+              "elias_id": "CLA715825",
+              "pro_status": "A",
+              "jersey": "85",
+              "fullname": "Charles Clay",
+              "id": "1265552",
+              "rank": 23,
+              "pro_team": "BUF"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Richard",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2130257.png",
+              "position": "TE",
+              "icons": {
+                "headline": "Packers TE Richard Rodgers may have neck injury"
+              },
+              "lastname": "Rodgers",
+              "age": 23,
+              "elias_id": "ROD493098",
+              "pro_status": "A",
+              "jersey": "82",
+              "fullname": "Richard Rodgers",
+              "id": "2130257",
+              "rank": 24,
+              "pro_team": "GB"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Josh",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2060083.png",
+              "position": "TE",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Hill",
+              "age": 25,
+              "elias_id": "HIL451418",
+              "pro_status": "A",
+              "jersey": "89",
+              "fullname": "Josh Hill",
+              "id": "2060083",
+              "rank": 25,
+              "pro_team": "NO"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Larry",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1995451.png",
+              "position": "TE",
+              "icons": {
+                "headline": "Giants TE Larry Donnell scores TD in Week 2 loss to Falcons"
+              },
+              "lastname": "Donnell",
+              "age": 26,
+              "elias_id": "DON564065",
+              "pro_status": "A",
+              "jersey": "84",
+              "fullname": "Larry Donnell",
+              "id": "1995451",
+              "rank": 26,
+              "pro_team": "NYG"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Ladarius",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1631427.png",
+              "position": "TE",
+              "icons": {
+                "video": 1,
+                "injury": "Concussion: Questionable for Week 3 at Minnesota",
+                "headline": "Chargers' Ladarius Green limited in practice by concussion"
+              },
+              "lastname": "Green",
+              "age": 25,
+              "elias_id": "GRE298482",
+              "pro_status": "A",
+              "jersey": "89",
+              "fullname": "Ladarius Green",
+              "id": "1631427",
+              "rank": 27,
+              "pro_team": "SD"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Garrett",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/565190.png",
+              "position": "TE",
+              "icons": {
+                "headline": "Texans TE Garret Graham scores TD in loss to Panthers"
+              },
+              "lastname": "Graham",
+              "age": 29,
+              "elias_id": "GRA193306",
+              "pro_status": "A",
+              "jersey": "88",
+              "fullname": "Garrett Graham",
+              "id": "565190",
+              "rank": 28,
+              "pro_team": "HOU"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Clive",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1759387.png",
+              "position": "TE",
+              "icons": {
+                "headline": "Raiders rookie TE Clive Walford was afterthought in Week 1"
+              },
+              "lastname": "Walford",
+              "age": 23,
+              "elias_id": "WAL062390",
+              "pro_status": "A",
+              "jersey": "88",
+              "fullname": "Clive Walford",
+              "id": "1759387",
+              "rank": 29,
+              "pro_team": "OAK"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Jordan",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1691412.png",
+              "position": "TE",
+              "icons": {
+                "video": 1,
+                "hot": 1,
+                "headline": "Redskins say TE Jordan Reed's quad injury is minor"
+              },
+              "lastname": "Reed",
+              "age": 25,
+              "elias_id": "REE302847",
+              "pro_status": "A",
+              "jersey": "86",
+              "fullname": "Jordan Reed",
+              "id": "1691412",
+              "rank": 30,
+              "pro_team": "WAS"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Mychal",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1631841.png",
+              "position": "TE",
+              "icons": {
+                "headline": "Raiders TE Mychal Rivera needs more action to make impact"
+              },
+              "lastname": "Rivera",
+              "age": 25,
+              "elias_id": "RIV251717",
+              "pro_status": "A",
+              "jersey": "81",
+              "fullname": "Mychal Rivera",
+              "id": "1631841",
+              "rank": 31,
+              "pro_team": "OAK"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Heath",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/416861.png",
+              "position": "TE",
+              "icons": {
+                "headline": "Steelers TE Heath Miller scores touchdown in win"
+              },
+              "lastname": "Miller",
+              "age": 32,
+              "elias_id": "MIL243606",
+              "pro_status": "A",
+              "jersey": "83",
+              "fullname": "Heath Miller",
+              "id": "416861",
+              "rank": 32,
+              "pro_team": "PIT"
+            }
+          ]
+        },
+        {
+          "abbr": "K",
+          "players": [
+            {
+              "bye_week": "4",
+              "firstname": "Stephen",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/411579.png",
+              "position": "K",
+              "icons": {
+                "headline": "Patriots K Stephen Gostkowski goes 4 for 4 on field goal attempts Sunday"
+              },
+              "lastname": "Gostkowski",
+              "age": 31,
+              "elias_id": "GOS721266",
+              "pro_status": "A",
+              "jersey": "3",
+              "fullname": "Stephen Gostkowski",
+              "id": "411579",
+              "rank": 1,
+              "pro_team": "NE"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Adam",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1392.png",
+              "position": "K",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Vinatieri",
+              "age": 42,
+              "elias_id": "VIN196019",
+              "pro_status": "A",
+              "jersey": "4",
+              "fullname": "Adam Vinatieri",
+              "id": "1392",
+              "rank": 2,
+              "pro_team": "IND"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Cody",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2130323.png",
+              "position": "K",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Parkey",
+              "age": 23,
+              "elias_id": "PAR471800",
+              "pro_status": "A",
+              "jersey": "1",
+              "fullname": "Cody Parkey",
+              "id": "2130323",
+              "rank": 3,
+              "pro_team": "PHI"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Mason",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/408969.png",
+              "position": "K",
+              "icons": {
+                "headline": "Packers K Mason Crosby converts four field goals in Week 2 win"
+              },
+              "lastname": "Crosby",
+              "age": 31,
+              "elias_id": "CRO369933",
+              "pro_status": "A",
+              "jersey": "2",
+              "fullname": "Mason Crosby",
+              "id": "408969",
+              "rank": 4,
+              "pro_team": "GB"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Dan",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1689664.png",
+              "position": "K",
+              "lastname": "Bailey",
+              "age": 27,
+              "elias_id": "BAI159977",
+              "pro_status": "A",
+              "jersey": "5",
+              "fullname": "Dan Bailey",
+              "id": "1689664",
+              "rank": 5,
+              "pro_team": "DAL"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Chandler",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2130276.png",
+              "position": "K",
+              "icons": {
+                "hot": 1
+              },
+              "lastname": "Catanzaro",
+              "age": 24,
+              "elias_id": "CAT093927",
+              "pro_status": "A",
+              "jersey": "7",
+              "fullname": "Chandler Catanzaro",
+              "id": "2130276",
+              "rank": 6,
+              "pro_team": "ARI"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Matt",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/312308.png",
+              "position": "K",
+              "icons": {
+                "headline": "Falcons K Matt Bryant converts field goal, gets three extra points"
+              },
+              "lastname": "Bryant",
+              "age": 40,
+              "elias_id": "BRY500226",
+              "pro_status": "A",
+              "jersey": "3",
+              "fullname": "Matt Bryant",
+              "id": "312308",
+              "rank": 7,
+              "pro_team": "ATL"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Justin",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1985374.png",
+              "position": "K",
+              "icons": {
+                "headline": "Ravens kicker Justin Tucker remains perfect through two weeks"
+              },
+              "lastname": "Tucker",
+              "age": 25,
+              "elias_id": "TUC224643",
+              "pro_status": "A",
+              "jersey": "9",
+              "fullname": "Justin Tucker",
+              "id": "1985374",
+              "rank": 8,
+              "pro_team": "BAL"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Steven",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1616746.png",
+              "position": "K",
+              "icons": {
+                "hot": 1
+              },
+              "lastname": "Hauschka",
+              "age": 30,
+              "elias_id": "HAU342462",
+              "pro_status": "A",
+              "jersey": "4",
+              "fullname": "Steven Hauschka",
+              "id": "1616746",
+              "rank": 9,
+              "pro_team": "SEA"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Josh",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/493053.png",
+              "position": "K",
+              "icons": {
+                "cold": 1,
+                "headline": "Steelers K Josh Scobee goes 3 for 4 in extra-point attempts"
+              },
+              "lastname": "Scobee",
+              "age": 33,
+              "elias_id": "SCO003459",
+              "pro_status": "A",
+              "jersey": "8",
+              "fullname": "Josh Scobee",
+              "id": "493053",
+              "rank": 10,
+              "pro_team": "PIT"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Matt",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1109832.png",
+              "position": "K",
+              "lastname": "Prater",
+              "age": 31,
+              "elias_id": "PRA143616",
+              "pro_status": "A",
+              "jersey": "5",
+              "fullname": "Matt Prater",
+              "id": "1109832",
+              "rank": 11,
+              "pro_team": "DET"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Dan",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1616704.png",
+              "position": "K",
+              "icons": {
+                "injury": "Abdominal: Probable for Week 3 at Miami"
+              },
+              "lastname": "Carpenter",
+              "age": 29,
+              "elias_id": "CAR297693",
+              "pro_status": "A",
+              "jersey": "2",
+              "fullname": "Dan Carpenter",
+              "id": "1616704",
+              "rank": 12,
+              "pro_team": "BUF"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Brandon",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2058320.png",
+              "position": "K",
+              "icons": {
+                "hot": 1
+              },
+              "lastname": "McManus",
+              "age": 24,
+              "elias_id": "MCM226186",
+              "pro_status": "A",
+              "jersey": "8",
+              "fullname": "Brandon McManus",
+              "id": "2058320",
+              "rank": 13,
+              "pro_team": "DEN"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Josh",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/395934.png",
+              "position": "K",
+              "icons": {
+                "hot": 1
+              },
+              "lastname": "Brown",
+              "age": 36,
+              "elias_id": "BRO502703",
+              "pro_status": "A",
+              "jersey": "3",
+              "fullname": "Josh Brown",
+              "id": "395934",
+              "rank": 14,
+              "pro_team": "NYG"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Mike",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/552599.png",
+              "position": "K",
+              "lastname": "Nugent",
+              "age": 33,
+              "elias_id": "NUG461506",
+              "pro_status": "A",
+              "jersey": "2",
+              "fullname": "Mike Nugent",
+              "id": "552599",
+              "rank": 15,
+              "pro_team": "CIN"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Zach",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2129635.png",
+              "position": "K",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Hocker",
+              "age": 24,
+              "elias_id": "HOC440041",
+              "pro_status": "A",
+              "jersey": "2",
+              "fullname": "Zach Hocker",
+              "id": "2129635",
+              "rank": 16,
+              "pro_team": "NO"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Randy",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1632503.png",
+              "position": "K",
+              "lastname": "Bullock",
+              "age": 25,
+              "elias_id": "BUL521842",
+              "pro_status": "A",
+              "jersey": "4",
+              "fullname": "Randy Bullock",
+              "id": "1632503",
+              "rank": 17,
+              "pro_team": "HOU"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Graham",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/558839.png",
+              "position": "K",
+              "lastname": "Gano",
+              "age": 28,
+              "elias_id": "GAN308500",
+              "pro_status": "A",
+              "jersey": "9",
+              "fullname": "Graham Gano",
+              "id": "558839",
+              "rank": 18,
+              "pro_team": "CAR"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Greg",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1971893.png",
+              "position": "K",
+              "icons": {
+                "hot": 1,
+                "headline": "Rams K Greg Zuerlein stays perfect after converting FG in Week 2"
+              },
+              "lastname": "Zuerlein",
+              "age": 27,
+              "elias_id": "ZUE563610",
+              "pro_status": "A",
+              "jersey": "4",
+              "fullname": "Greg Zuerlein",
+              "id": "1971893",
+              "rank": 19,
+              "pro_team": "STL"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "Robbie",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/553121.png",
+              "position": "K",
+              "icons": {
+                "hot": 1,
+                "headline": "Bears K Robbie Gould connects on all three field-goal attempts Sunday"
+              },
+              "lastname": "Gould",
+              "age": 33,
+              "elias_id": "GOU258729",
+              "pro_status": "A",
+              "jersey": "9",
+              "fullname": "Robbie Gould",
+              "id": "553121",
+              "rank": 20,
+              "pro_team": "CHI"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Blair",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1632083.png",
+              "position": "K",
+              "lastname": "Walsh",
+              "age": 25,
+              "elias_id": "WAL585473",
+              "pro_status": "A",
+              "jersey": "3",
+              "fullname": "Blair Walsh",
+              "id": "1632083",
+              "rank": 21,
+              "pro_team": "MIN"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Phil",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/12320.png",
+              "position": "K",
+              "icons": {
+                "headline": "49ers K Phil Dawson converts lone FG attempt in Sunday's loss"
+              },
+              "lastname": "Dawson",
+              "age": 40,
+              "elias_id": "DAW705989",
+              "pro_status": "A",
+              "jersey": "9",
+              "fullname": "Phil Dawson",
+              "id": "12320",
+              "rank": 22,
+              "pro_team": "SF"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Andrew",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "K",
+              "lastname": "Franks",
+              "age": 22,
+              "elias_id": "FRA570164",
+              "pro_status": "A",
+              "jersey": "3",
+              "fullname": "Andrew Franks",
+              "id": "2174825",
+              "rank": 23,
+              "pro_team": "MIA"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "Cairo",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2132690.png",
+              "position": "K",
+              "icons": {
+                "hot": 1
+              },
+              "lastname": "Santos",
+              "age": 23,
+              "elias_id": "SAN796299",
+              "pro_status": "A",
+              "jersey": "5",
+              "fullname": "Cairo Santos",
+              "id": "2132690",
+              "rank": 24,
+              "pro_team": "KC"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Kai",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "K",
+              "lastname": "Forbath",
+              "elias_id": "FOR007550",
+              "pro_status": "A",
+              "fullname": "Kai Forbath",
+              "id": "1117835",
+              "rank": 25,
+              "pro_team": "WAS"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Sebastian",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/187389.png",
+              "position": "K",
+              "icons": {
+                "headline": "Raiders K Sebastian Janikowski converts three field goals in Week 2"
+              },
+              "lastname": "Janikowski",
+              "age": 37,
+              "elias_id": "JAN400354",
+              "pro_status": "A",
+              "jersey": "11",
+              "fullname": "Sebastian Janikowski",
+              "id": "187389",
+              "rank": 26,
+              "pro_team": "OAK"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "Nick",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/410721.png",
+              "position": "K",
+              "icons": {
+                "hot": 1,
+                "headline": "Jets K Nick Folk connects on two field goals in Week 2 win"
+              },
+              "lastname": "Folk",
+              "age": 30,
+              "elias_id": "FOL378021",
+              "pro_status": "A",
+              "jersey": "2",
+              "fullname": "Nick Folk",
+              "id": "410721",
+              "rank": 27,
+              "pro_team": "NYJ"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "Ryan",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/1674148.png",
+              "position": "K",
+              "lastname": "Succop",
+              "age": 29,
+              "elias_id": "SUC073828",
+              "pro_status": "A",
+              "jersey": "4",
+              "fullname": "Ryan Succop",
+              "id": "1674148",
+              "rank": 28,
+              "pro_team": "TEN"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "Josh",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "K",
+              "lastname": "Lambo",
+              "age": 24,
+              "elias_id": "LAM580646",
+              "pro_status": "A",
+              "jersey": "2",
+              "fullname": "Josh Lambo",
+              "id": "2013049",
+              "rank": 29,
+              "pro_team": "SD"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "Kyle",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "K",
+              "icons": {
+                "headline": "Buccaneers K Kyle Brindza makes four FGs in win"
+              },
+              "lastname": "Brindza",
+              "age": 22,
+              "elias_id": "BRI391128",
+              "pro_status": "A",
+              "jersey": "2",
+              "fullname": "Kyle Brindza",
+              "id": "1825182",
+              "rank": 30,
+              "pro_team": "TB"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "Jason",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2169640.png",
+              "position": "K",
+              "icons": {
+                "headline": "Jaguars K Jason Myers says he can fix mistakes from Week 1"
+              },
+              "lastname": "Myers",
+              "age": 24,
+              "elias_id": "MYE407253",
+              "pro_status": "A",
+              "jersey": "2",
+              "fullname": "Jason Myers",
+              "id": "2169640",
+              "rank": 31,
+              "pro_team": "JAC"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "Travis",
+              "photo": "https://auth.cbssports.com/images/football/nfl/players/170x170/2130870.png",
+              "position": "K",
+              "lastname": "Coons",
+              "age": 23,
+              "elias_id": "COO469595",
+              "pro_status": "A",
+              "jersey": "6",
+              "fullname": "Travis Coons",
+              "id": "2130870",
+              "rank": 32,
+              "pro_team": "CLE"
+            }
+          ]
+        },
+        {
+          "abbr": "DST",
+          "players": [
+            {
+              "bye_week": "9",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "Texans",
+              "elias_id": "432",
+              "pro_status": null,
+              "fullname": "Texans",
+              "id": "1932",
+              "rank": 1,
+              "pro_team": "HOU"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "icons": {
+                "hot": 1
+              },
+              "lastname": "Seahawks",
+              "elias_id": "416",
+              "pro_status": null,
+              "fullname": "Seahawks",
+              "id": "1926",
+              "rank": 2,
+              "pro_team": "SEA"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Dolphins",
+              "elias_id": "404",
+              "pro_status": null,
+              "fullname": "Dolphins",
+              "id": "1915",
+              "rank": 3,
+              "pro_team": "MIA"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "Panthers",
+              "elias_id": "420",
+              "pro_status": null,
+              "fullname": "Panthers",
+              "id": "1905",
+              "rank": 4,
+              "pro_team": "CAR"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "icons": {
+                "hot": 1
+              },
+              "lastname": "Jets",
+              "elias_id": "410",
+              "pro_status": null,
+              "fullname": "Jets",
+              "id": "1919",
+              "rank": 5,
+              "pro_team": "NYJ"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "Bengals",
+              "elias_id": "426",
+              "pro_status": null,
+              "fullname": "Bengals",
+              "id": "1907",
+              "rank": 6,
+              "pro_team": "CIN"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "Bills",
+              "elias_id": "409",
+              "pro_status": null,
+              "fullname": "Bills",
+              "id": "1904",
+              "rank": 7,
+              "pro_team": "BUF"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Rams",
+              "elias_id": "423",
+              "pro_status": null,
+              "fullname": "Rams",
+              "id": "1923",
+              "rank": 8,
+              "pro_team": "STL"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "icons": {
+                "hot": 1
+              },
+              "lastname": "Broncos",
+              "elias_id": "428",
+              "pro_status": null,
+              "fullname": "Broncos",
+              "id": "1909",
+              "rank": 9,
+              "pro_team": "DEN"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "Packers",
+              "elias_id": "430",
+              "pro_status": null,
+              "fullname": "Packers",
+              "id": "1911",
+              "rank": 10,
+              "pro_team": "GB"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "Colts",
+              "elias_id": "402",
+              "pro_status": null,
+              "fullname": "Colts",
+              "id": "1912",
+              "rank": 11,
+              "pro_team": "IND"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "Cardinals",
+              "elias_id": "412",
+              "pro_status": null,
+              "fullname": "Cardinals",
+              "id": "1901",
+              "rank": 12,
+              "pro_team": "ARI"
+            },
+            {
+              "bye_week": "5",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "Vikings",
+              "elias_id": "405",
+              "pro_status": null,
+              "fullname": "Vikings",
+              "id": "1916",
+              "rank": 13,
+              "pro_team": "MIN"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "icons": {
+                "hot": 1
+              },
+              "lastname": "Patriots",
+              "elias_id": "406",
+              "pro_status": null,
+              "fullname": "Patriots",
+              "id": "1931",
+              "rank": 14,
+              "pro_team": "NE"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "Chiefs",
+              "elias_id": "403",
+              "pro_status": null,
+              "fullname": "Chiefs",
+              "id": "1914",
+              "rank": 15,
+              "pro_team": "KC"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Eagles",
+              "elias_id": "411",
+              "pro_status": null,
+              "fullname": "Eagles",
+              "id": "1921",
+              "rank": 16,
+              "pro_team": "PHI"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Lions",
+              "elias_id": "429",
+              "pro_status": null,
+              "fullname": "Lions",
+              "id": "1910",
+              "rank": 17,
+              "pro_team": "DET"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "icons": {
+                "hot": 1
+              },
+              "lastname": "Browns",
+              "elias_id": "419",
+              "pro_status": null,
+              "fullname": "Browns",
+              "id": "1930",
+              "rank": 18,
+              "pro_team": "CLE"
+            },
+            {
+              "bye_week": "9",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Ravens",
+              "elias_id": "425",
+              "pro_status": null,
+              "fullname": "Ravens",
+              "id": "1903",
+              "rank": 19,
+              "pro_team": "BAL"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "icons": {
+                "hot": 1
+              },
+              "lastname": "Steelers",
+              "elias_id": "413",
+              "pro_status": null,
+              "fullname": "Steelers",
+              "id": "1922",
+              "rank": 20,
+              "pro_team": "PIT"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "49ers",
+              "elias_id": "415",
+              "pro_status": null,
+              "fullname": "49ers",
+              "id": "1925",
+              "rank": 21,
+              "pro_team": "SF"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "Falcons",
+              "elias_id": "401",
+              "pro_status": null,
+              "fullname": "Falcons",
+              "id": "1902",
+              "rank": 22,
+              "pro_team": "ATL"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "Giants",
+              "elias_id": "408",
+              "pro_status": null,
+              "fullname": "Giants",
+              "id": "1918",
+              "rank": 23,
+              "pro_team": "NYG"
+            },
+            {
+              "bye_week": "7",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "Bears",
+              "elias_id": "421",
+              "pro_status": null,
+              "fullname": "Bears",
+              "id": "1906",
+              "rank": 24,
+              "pro_team": "CHI"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "Cowboys",
+              "elias_id": "427",
+              "pro_status": null,
+              "fullname": "Cowboys",
+              "id": "1908",
+              "rank": 25,
+              "pro_team": "DAL"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "Raiders",
+              "elias_id": "424",
+              "pro_status": null,
+              "fullname": "Raiders",
+              "id": "1920",
+              "rank": 26,
+              "pro_team": "OAK"
+            },
+            {
+              "bye_week": "10",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "Chargers",
+              "elias_id": "414",
+              "pro_status": null,
+              "fullname": "Chargers",
+              "id": "1924",
+              "rank": 27,
+              "pro_team": "SD"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "Redskins",
+              "elias_id": "418",
+              "pro_status": null,
+              "fullname": "Redskins",
+              "id": "1929",
+              "rank": 28,
+              "pro_team": "WAS"
+            },
+            {
+              "bye_week": "6",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "lastname": "Buccaneers",
+              "elias_id": "417",
+              "pro_status": null,
+              "fullname": "Buccaneers",
+              "id": "1927",
+              "rank": 29,
+              "pro_team": "TB"
+            },
+            {
+              "bye_week": "4",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Titans",
+              "elias_id": "431",
+              "pro_status": null,
+              "fullname": "Titans",
+              "id": "1928",
+              "rank": 30,
+              "pro_team": "TEN"
+            },
+            {
+              "bye_week": "8",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Jaguars",
+              "elias_id": "422",
+              "pro_status": null,
+              "fullname": "Jaguars",
+              "id": "1913",
+              "rank": 31,
+              "pro_team": "JAC"
+            },
+            {
+              "bye_week": "11",
+              "firstname": "",
+              "photo": "https://auth.cbssports.com/images/players/unknown-player-170x170.png",
+              "position": "DST",
+              "icons": {
+                "cold": 1
+              },
+              "lastname": "Saints",
+              "elias_id": "407",
+              "pro_status": null,
+              "fullname": "Saints",
+              "id": "1917",
+              "rank": 32,
+              "pro_team": "NO"
+            }
+          ]
+        }
+      ],
+      "type": "by_pos",
+      "updated": 1441826091
+    }
+  }
+}

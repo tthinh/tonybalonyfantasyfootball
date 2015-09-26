@@ -1,0 +1,27 @@
+
+var Parse = require('node-parse-api').Parse;
+var _ = require('underscore-contrib');
+var http = require('http');
+var async = require("async");
+var sleep = require('sleep');
+
+
+var application_id = "zlkwoSSufFpatC8ol6689tzcVAVsDDTqA5gQI6Jz";
+var master_key = "wPpqlFfND6k7P6QHNb3CYxGCIbG3cNbFwKlHJRj1";
+var className = 'PLAYER_TEAM_DEPTHCHART';
+
+function findPlayersByTeam(team) {
+    console.log(team.abbr);
+    var query = {
+        where: {
+            pro_team: team.abbr
+        },
+        order: 'rank'
+    };
+    parse.find('PLAYER_TEAM_DEPTHCHART', query, function (err, response) {
+        //               console.log(response);
+        if(response){
+            updatePlayerRankingParse(response.results);
+        }
+    });
+}

@@ -1,0 +1,164 @@
+{
+  "pro_teams" : [
+    {
+      "abbr" : "ARI",
+      "nickname" : "Cardinals",
+      "name" : "Arizona"
+    },
+    {
+      "abbr" : "ATL",
+      "nickname" : "Falcons",
+      "name" : "Atlanta"
+    },
+    {
+      "abbr" : "BAL",
+      "nickname" : "Ravens",
+      "name" : "Baltimore"
+    },
+    {
+      "abbr" : "BUF",
+      "nickname" : "Bills",
+      "name" : "Buffalo"
+    },
+    {
+      "abbr" : "CAR",
+      "nickname" : "Panthers",
+      "name" : "Carolina"
+    },
+    {
+      "abbr" : "CHI",
+      "nickname" : "Bears",
+      "name" : "Chicago"
+    },
+    {
+      "abbr" : "CIN",
+      "nickname" : "Bengals",
+      "name" : "Cincinnati"
+    },
+    {
+      "abbr" : "CLE",
+      "nickname" : "Browns",
+      "name" : "Cleveland"
+    },
+    {
+      "abbr" : "DAL",
+      "nickname" : "Cowboys",
+      "name" : "Dallas"
+    },
+    {
+      "abbr" : "DEN",
+      "nickname" : "Broncos",
+      "name" : "Denver"
+    },
+    {
+      "abbr" : "DET",
+      "nickname" : "Lions",
+      "name" : "Detroit"
+    },
+    {
+      "abbr" : "GB",
+      "nickname" : "Packers",
+      "name" : "Green Bay"
+    },
+    {
+      "abbr" : "HOU",
+      "nickname" : "Texans",
+      "name" : "Houston"
+    },
+    {
+      "abbr" : "IND",
+      "nickname" : "Colts",
+      "name" : "Indianapolis"
+    },
+    {
+      "abbr" : "JAC",
+      "nickname" : "Jaguars",
+      "name" : "Jacksonville"
+    },
+    {
+      "abbr" : "KC",
+      "nickname" : "Chiefs",
+      "name" : "Kansas City"
+    },
+    {
+      "abbr" : "MIA",
+      "nickname" : "Dolphins",
+      "name" : "Miami"
+    },
+    {
+      "abbr" : "MIN",
+      "nickname" : "Vikings",
+      "name" : "Minnesota"
+    },
+    {
+      "abbr" : "NE",
+      "nickname" : "Patriots",
+      "name" : "New England"
+    },
+    {
+      "abbr" : "NO",
+      "nickname" : "Saints",
+      "name" : "New Orleans"
+    },
+    {
+      "abbr" : "NYG",
+      "nickname" : "Giants",
+      "name" : "New York"
+    },
+    {
+      "abbr" : "NYJ",
+      "nickname" : "Jets",
+      "name" : "New York"
+    },
+    {
+      "abbr" : "OAK",
+      "nickname" : "Raiders",
+      "name" : "Oakland"
+    },
+    {
+      "abbr" : "PHI",
+      "nickname" : "Eagles",
+      "name" : "Philadelphia"
+    },
+    {
+      "abbr" : "PIT",
+      "nickname" : "Steelers",
+      "name" : "Pittsburgh"
+    },
+    {
+      "abbr" : "SD",
+      "nickname" : "Chargers",
+      "name" : "San Diego"
+    },
+    {
+      "abbr" : "SF",
+      "nickname" : "49ers",
+      "name" : "San Francisco"
+    },
+    {
+      "abbr" : "SEA",
+      "nickname" : "Seahawks",
+      "name" : "Seattle"
+    },
+    {
+      "abbr" : "STL",
+      "nickname" : "Rams",
+      "name" : "St. Louis"
+    },
+    {
+      "abbr" : "TB",
+      "nickname" : "Buccaneers",
+      "name" : "Tampa Bay"
+    },
+    {
+      "abbr" : "TEN",
+      "nickname" : "Titans",
+      "name" : "Tennessee"
+    },
+    {
+      "abbr" : "WAS",
+      "nickname" : "Redskins",
+      "name" : "Washington"
+    }
+  ]
+}
