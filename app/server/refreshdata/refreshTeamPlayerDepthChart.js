@@ -5,13 +5,12 @@ var Parse = require('node-parse-api').Parse;
 var _ = require('underscore-contrib');
 var http = require('http');
 var async = require("async");
-var sleep = require('sleep');
-
+var fs = require('fs');
 
 var application_id = "zlkwoSSufFpatC8ol6689tzcVAVsDDTqA5gQI6Jz";
 var master_key = "wPpqlFfND6k7P6QHNb3CYxGCIbG3cNbFwKlHJRj1";
 var className = 'PLAYER_TEAM_DEPTHCHART';
-
+var outputjson = [];
 
 var parse = new Parse(application_id, master_key);
 
@@ -21,30 +20,6 @@ var teams =  nflteams.pro_teams;
 for (index = 0; index < teams.length; ++index) {
     var team = teams[index];
     getPLayersfromTeam(team);
-}
-
-function addPLayerListToParse() {
-    console.log("addPLayerToParse");
-    var teams;
-    parse.find('TEAM', '', function (err, response) {
-        //console.log(response);
-        teams = response.results;
-        teams.forEach(function (team) {
-            console.log(team.abbr);
-            var query = {
-                where: {
-                    pro_team: team.abbr
-                },
-                order: 'rank'
-            };
-            parse.find('PLAYER', query, function (err, response) {
- //               console.log(response);
-                if(response){
-                    updatePlayerRankingParse(response.results);
-                }
-            });
-        });
-    })
 }
 
 function getPLayersfromTeam(team) {
@@ -109,15 +84,28 @@ function updatePlayerRankingParse(players){
                         "depthchart": currentPos,
                         "position": player.position
                     };
-                    parse.insert(className, playerdepthchart, function (error, response) {
-                        console.log("response = " + response + "error= " + error);
-                    });
+                    //saveDatainParse(playerdepthchart);
+        saveDatatoJson(playerdepthchart);
     //            }
     //        }
         });
     //});
 }
 
+function saveDatainParse(playerdepthchart){
+    parse.insert(className, playerdepthchart, function (error, response) {
+        console.log("response = " + response + "error= " + error);
+    });
+}
+function saveDatatoJson(playerdepthchart){
+    outputjson.push(playerdepthchart);
+}
+function saveDataintofile(){
+    fs.writeFile('playerdepthchart.json', outputjson, function (err) {
+        if (err) throw err;
+        console.log('It\'s saved!');
+    });
+}
 function getPlayerId(player){
     var playerid = player.fullname.replace(" ", "_") + "_"+player.position;
     return playerid;
